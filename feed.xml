@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/" version="2.0">
+		<channel>
+				<ttl>60</ttl>
+
+				<generator>acast.com</generator>
+
+				<title><![CDATA[Was wenn's klappt?]]></title>
+
+				<link>https://waswennsklappt.de</link>
+
+			<atom:link href="https://feed.waswennsklappt.de/feed.xml" rel="self" type="application/rss+xml"/>
+				<language>de</language>
+
+				<copyright><![CDATA[Isabelle Moegelin & Marco Greiveldinger]]></copyright>
+
+				<itunes:keywords>positives mindset,positiv denken,umdenken,mutiger werden,inspiration für veränderung</itunes:keywords>
+
+				<itunes:author><![CDATA[Isabelle Moegelin & Marco Greiveldinger]]></itunes:author>
+
+				<itunes:subtitle/>
+
+				<itunes:summary><![CDATA[Denkst du oft dran, was im schlimmsten Fall passieren könnte? Wie wärs stattdessen einfach mal öfter vom Positiven auszugehen? Wir sprechen in unserem Podcast über die kleinen Alltagsmomente, wie uns eine offene Einstellung zu einem glücklicheren Leben verhilft und ermutigen dich: Denke in deinem Leben einfach öfter mal <strong><em>Was wenn's klappt?</em></strong>]]></itunes:summary>
+
+				<description><![CDATA[Denkst du oft dran, was im schlimmsten Fall passieren könnte? Wie wärs stattdessen einfach mal öfter vom Positiven auszugehen? Wir sprechen in unserem Podcast über die kleinen Alltagsmomente, wie uns eine offene Einstellung zu einem glücklicheren Leben verhilft und ermutigen dich: Denke in deinem Leben einfach öfter mal <strong><em>Was wenn's klappt?</em></strong>]]></description>
+
+				<itunes:explicit>no</itunes:explicit>
+
+				<itunes:owner>
+					<itunes:name><![CDATA[Isabelle Moegelin & Marco Greiveldinger]]></itunes:name>
+					<itunes:email>hallo@waswennsklappt.de</itunes:email>
+</itunes:owner>
+
+				<acast:showId>6504228accb27600118a65b8</acast:showId>
+
+				<acast:showUrl>was-wenns-klappt</acast:showUrl>
+
+			<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[CMqCdL2SoK4kjVYCnKa0iA==]]></acast:signature>
+				<acast:settings><![CDATA[Cben1Vp/EBH/TC/Vft/rqQoggtn0JgWssWfgsK5QKOQT+S6rcT0OuXD+h6rlNLZ4khKz9KuqMidy+Igj3hWeNyI7Kw8+viFck+IFa3H362c9xckuUuch+jtivK6hbRXFoNAWsKapisde/gGepXjQumZi04X/NO0CTweiuRgw3q3htkTaYLwWToX7rKnBDo9UMxiVYs/N9Nws6e/jgYFK/yYVPoLXOgSp2Xi3VQvng3Z6vXu/7Zicya2RYRNSpFP7GEcvAtBNbupFVBcedxbseTpi4u/Efmy+Eu7RKJGOgpC8nCXrGcLVbilfzkT/v44bZWnxgaa2cgBM49RqJ1vkGVGfoVTgtJyKeY6VBNfoqoOWMzk9iEf9dc91yxSvOHdWxH0L00kC2gSEZaBDA853RI4K1P2emTty40OBzGhCMaNq6MNxxkXyPecIvYs2LtmpAltVufWBdQn8TT6Mpa/tb+42mpoSQW2smlR1NWZoGlM=]]></acast:settings>
+
+				<itunes:type>episodic</itunes:type>
+
+			<itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
+				<image>
+					<url>https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg</url>
+					<link>https://waswennsklappt.de</link>
+					<title><![CDATA[Was wenn's klappt?]]></title>
+</image>
+
+				<item>
+						<title>Einfach mal positiv(er) denken!</title>
+
+						<itunes:title>Einfach mal positiv(er) denken!</itunes:title>
+
+						<pubDate>Sat, 16 Sep 2023 03:00:54 GMT</pubDate>
+
+						<itunes:duration>30:29</itunes:duration>
+
+					<enclosure url="https://chrt.fm/track/C481C3/https://sphinx.acast.com/p/open/s/6504228accb27600118a65b8/e/65042ce0e3147000102828c8/media.mp3" length="60072814" type="audio/mpeg"/>
+					<guid isPermaLink="false">65042ce0e3147000102828c8</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://www.instagram.com/waswennsklappt/</link>
+
+						<acast:episodeId>65042ce0e3147000102828c8</acast:episodeId>
+
+						<acast:showId>6504228accb27600118a65b8</acast:showId>
+
+						<acast:episodeUrl>einfach-mal-positiver-denken</acast:episodeUrl>
+
+						<acast:settings><![CDATA[Cben1Vp/EBH/TC/Vft/rqXdDZ+sVeU6WwhPVyBSrg7mGu8G9L9WYKe3jV3aKdxYLQhAfhkdbuNdHvdMnSO+oNDXNHpLwF0bZ2D4T3V/nptgqmIDfKrHBcsRqX7n7gvlJNp0dXAH8XRrSRtQcwjaf2mBPo2XhXc/yGnEF0iDTVWd78aMB4Db7M4YpXD7qxCcwFPxIODJXjoBVXe477yNXRDAETlKubQbkW6VOllkvMJd/IsD/gXULsq/7+Yb/5y+sa4BIbYSXykmmWEzBwfz+qqpKxAoKhIGqYv5c1zZHnNB9caspiorEia2Lw4cVvOsmKdnHuUrE48I+nXQq9Qi/BPAhSRqsW5Ixci2eaJyf94paU5leuq3ks71pp8kF5dwM8w51KKq0MCpJoqm34MzuJFwZ+dHwyvxN2N/tV9ZGPCeXq6yL8jgxCKIbwlwaRKQgj3u/1s1+BeubMYlmfLtYvYF9sBrmKXKWTTK8WeByK8mdl7GH6GCE+QA0Z0p7SdAyZHwNeUcxZozGnn1EyAd6y8NE8v/G/sFjaUJr8H2K80mmE1jem3Wn9CNO8fAUU84H]]></acast:settings>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+					<itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
+						<description><![CDATA[<p>In dieser Podcast Folge nehmen wir dich mit auf eine inspirierende Reise durch unsere persönlichen Erfahrungen. Wir erzählen, wie wir unsere Träume und Wünsche aktiv verfolgen, um ein erfülltes und abenteuerliches Leben zu führen. Dabei sprechen wir über die Bedeutung von positivem Denken, Selbstverwirklichung und der Offenheit für neue Möglichkeiten. Du erfährst von unseren Reiseerlebnissen und wie wir Hindernisse überwinden, um unsere Ziele zu erreichen. Diese Folge soll dich ermutigen, deine eigenen Träume anzugehen, negative Gedanken in positive umzuwandeln und den Mut zur Veränderung zu finden. Egal, ob du schon immer von einer Weltreise geträumt hast oder andere Ziele hast, unsere Geschichten sollen dir Inspiration bieten, um deine eigenen Träume zu verwirklichen.</p><br><p>Schau auch gerne auf YouTube vorbei <a href="https://www.youtube.com/@Waswennsklappt" rel="noopener noreferrer" target="_blank">https://www.youtube.com/@Waswennsklappt</a></p>]]></description>
+
+						<itunes:summary><![CDATA[<p>In dieser Podcast Folge nehmen wir dich mit auf eine inspirierende Reise durch unsere persönlichen Erfahrungen. Wir erzählen, wie wir unsere Träume und Wünsche aktiv verfolgen, um ein erfülltes und abenteuerliches Leben zu führen. Dabei sprechen wir über die Bedeutung von positivem Denken, Selbstverwirklichung und der Offenheit für neue Möglichkeiten. Du erfährst von unseren Reiseerlebnissen und wie wir Hindernisse überwinden, um unsere Ziele zu erreichen. Diese Folge soll dich ermutigen, deine eigenen Träume anzugehen, negative Gedanken in positive umzuwandeln und den Mut zur Veränderung zu finden. Egal, ob du schon immer von einer Weltreise geträumt hast oder andere Ziele hast, unsere Geschichten sollen dir Inspiration bieten, um deine eigenen Träume zu verwirklichen.</p><br><p>Schau auch gerne auf YouTube vorbei <a href="https://www.youtube.com/@Waswennsklappt" rel="noopener noreferrer" target="_blank">https://www.youtube.com/@Waswennsklappt</a></p>]]></itunes:summary>
+
+</item>
+
+			<itunes:category text="Education">
+					<itunes:category text="Self-Improvement"/>
+
+			</itunes:category>
+			<itunes:category text="Health &amp; Fitness">
+					<itunes:category text="Mental Health"/>
+
+			</itunes:category>
+			<itunes:category text="Business">
+					<itunes:category text="Entrepreneurship"/>
+
+			</itunes:category>
+<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/></channel>
+
+</rss>
