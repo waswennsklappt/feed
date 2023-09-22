@@ -1,5 +1,6 @@
 from lxml import etree
 import requests
+import datetime
 
 
 def process_xml(feed_url):
@@ -19,7 +20,7 @@ def process_xml(feed_url):
     if response.status_code == 200:
         xml_data = response.content
         # Parse the XML with namespaces
-        parser = etree.XMLParser(strip_cdata=False)
+        parser = etree.XMLParser(strip_cdata=False, remove_blank_text=True)
         tree = etree.HTML(xml_data, parser)
 
         root = tree
@@ -42,22 +43,27 @@ def process_xml(feed_url):
                 enclosure_element.set("url", "https://media.blubrry.com/2994638/chrt.fm/track/C481C3/" + url_attr)
 
         # Create and add the 'atom:link' element using the namespace
-        atom_link_element = etree.Element('{%s}link' % namespaces["atom"], href="https://pubsubhubbub.appspot.com/",
+        pubsubhub_element = etree.Element('{%s}link' % namespaces["atom"], href="https://pubsubhubbub.appspot.com/",
                                           rel="hub")
-        channel_element = root.xpath(".//channel")[0]  # Assuming there is only one 'channel' element
-        channel_element.append(atom_link_element)
+
+        # Create the <lastBuildDate> tag with the current date and time
+        current_datetime = datetime.datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S +0000")
+        last_build_date_element = etree.Element('lastBuildDate')
+        last_build_date_element.text = current_datetime
+
+        for title_element in root.xpath('.//channel/title'):
+            parent = title_element.getparent()
+            parent.insert(parent.index(title_element) + 1, pubsubhub_element)
+            parent.insert(parent.index(title_element) + 1, last_build_date_element)
 
         # Delete a specific string over the entire XML
         string_to_remove = "<br /><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>"
         for elem in root.iter():
-            if elem.text is not None:
-                if string_to_remove in elem.text:
-                    elem.text = etree.CDATA(elem.text.replace(string_to_remove, ''))
+            if elem.text is not None and string_to_remove in elem.text:
+                elem.text = etree.CDATA(elem.text.replace(string_to_remove, ''))
 
-        xml_declaration = '<?xml version="1.0" encoding="utf-8"?>'
-
-        # Serialize the modified XML back to a string
-        modified_feed_xml = '\n'.join([xml_declaration, etree.tostring(root, encoding="utf-8").decode("utf-8")])
+        modified_feed_xml = etree.tostring(root, pretty_print=True, xml_declaration=True, encoding="utf-8").decode(
+            "utf-8")
 
         return modified_feed_xml
 
