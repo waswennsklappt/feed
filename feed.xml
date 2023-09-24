@@ -4,7 +4,7 @@
     <ttl>60</ttl>
     <generator>acast.com</generator>
     <title><![CDATA[Was wenn's klappt?]]></title>
-    <lastBuildDate>Fri, 22 Sep 2023 05:59:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Sep 2023 07:35:47 +0000</lastBuildDate>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <link>https://waswennsklappt.de</link>
     <atom:link href="https://feed.waswennsklappt.de/feed.xml" rel="self" type="application/rss+xml"/>
@@ -22,8 +22,8 @@
     </itunes:owner>
     <acast:showId>6504228accb27600118a65b8</acast:showId>
     <acast:showUrl>was-wenns-klappt</acast:showUrl>
-    <acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[CMqCdL2SoK4kjVYCnKa0iA==]]></acast:signature>
-    <acast:settings><![CDATA[Cben1Vp/EBH/TC/Vft/rqQoggtn0JgWssWfgsK5QKOQT+S6rcT0OuXD+h6rlNLZ4khKz9KuqMidy+Igj3hWeNyI7Kw8+viFck+IFa3H362c9xckuUuch+jtivK6hbRXFoNAWsKapisde/gGepXjQumZi04X/NO0CTweiuRgw3q3htkTaYLwWToX7rKnBDo9UMxiVYs/N9Nws6e/jgYFK/yYVPoLXOgSp2Xi3VQvng3Z6vXu/7Zicya2RYRNSpFP7GEcvAtBNbupFVBcedxbseTpi4u/Efmy+Eu7RKJGOgpC8nCXrGcLVbilfzkT/v44bZWnxgaa2cgBM49RqJ1vkGVGfoVTgtJyKeY6VBNfoqoOWMzk9iEf9dc91yxSvOHdWxH0L00kC2gSEZaBDA853RI4K1P2emTty40OBzGhCMaNq6MNxxkXyPecIvYs2LtmpAltVufWBdQn8TT6Mpa/tb+42mpoSQW2smlR1NWZoGlM=]]></acast:settings>
+    <acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[Q1y9q0lKm2Mw6c+ImdH3CQ==]]></acast:signature>
+    <acast:settings><![CDATA[u2nrgTzcHhazowQmj4hYh+SwQ7hVgdK1G2nvxRdeIVG37+NwV8ryU/C2CqL3HUYOgyo9oz6qOVumXZuqYq0WQkEXcpjw2nlGKVqOiI5Qpa/b013P6+6r7BQYznIpKqWo6okK/TdoL2slR0PykUi5OH3DMdMSUoarB2gn3y3hR1/+wgfs78HO0i7jhBwq9krr+06OXy/K0rqU3LatNtkwvDLC2hTl2xQSbVDcurveVRxM0THLHTXjNvGRiyW7o+K3Dc/JBUm6uzXmrIr/+B/zwIBz6xxv9s/iT1oXuWmDo6o9vErtFGXSLGz6cby0//my3j6moxw/eeQltqKsG/cPiA7dQXARAj+fzUECP9EZaI9kj99NSFN4iV2yu9an5xWLHLi5GBQ06DC5oldhnUr6FMZhKIQa+3fcdLeW0i/RA9xQVqnj56Hy+ZGA54g749rxBs5GC7hqxyI3JyUUsNks+2PtcERklsyAxgCDCrWHPNw=]]></acast:settings>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
     <image>
@@ -31,6 +31,24 @@
       <link>https://waswennsklappt.de</link>
       <title><![CDATA[Was wenn's klappt?]]></title>
     </image>
+    <item>
+      <title><![CDATA[Lass' mal mehr im Moment leben!]]></title>
+      <itunes:title><![CDATA[Lass' mal mehr im Moment leben!]]></itunes:title>
+      <pubDate>Sun, 24 Sep 2023 07:30:04 GMT</pubDate>
+      <itunes:duration>34:22</itunes:duration>
+      <enclosure url="https://media.blubrry.com/2994638/chrt.fm/track/C481C3/https://sphinx.acast.com/p/open/s/6504228accb27600118a65b8/e/650e2fb25514040011c091fd/media.mp3" length="67758239" type="audio/mpeg"/>
+      <guid isPermaLink="false">650e2fb25514040011c091fd</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://waswennsklappt.de/</link>
+      <acast:episodeId>650e2fb25514040011c091fd</acast:episodeId>
+      <acast:showId>6504228accb27600118a65b8</acast:showId>
+      <acast:episodeUrl>lass-mal-mehr-im-moment-leben</acast:episodeUrl>
+      <acast:settings><![CDATA[u2nrgTzcHhazowQmj4hYhyMsgVthaFdje+5/7tLvkqBrmnVR9+fB6tOxAfz+m+NSllGM57oCsrNVjClRz17zNyzPk/mFU5DuUp1soYeRrGX16B+h19zThSiLq7hYcY2eCxttENcMhliF7T7XFpBanZRuWOjpZGlfWSR1bHwsCEeu7mTGudDuSdxLob6BrVeYsS+6E4KEyd83PBR+4r4PPCCGlRWkV1m6Rb0IUueo1mP/UqHFgOa94J2y1XkK0t/SR3jpLzzNKgiatYJ9x1SybMJUAEm0yMFEGi9kfgpnSiAqK5++Py8Vj2fEbnqp1ky39QzLNo2HgsRmousytUVimdaTccV5T+JSMyK6CXQh46wgzOhz5mVq3h9ky51bvq7rLXCt3i+JlIX1dMBm73ST/n2USw/+x9OmpgCno6MLs5LhzpjsSXGu8a7hWqslIc78paUFfWRG5d+W62so0B3DCidyQ8c1F0Va+Kl4OszaunSJ2uHBcu8FTC6RJk54/ql9mmcIU1pomy9HkBxnnc9bs+ueYWv2oqUyls78KmJhR6g=]]></acast:settings>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
+      <description><![CDATA[<p>Mehr im Moment leben: Kannst du das gut? Wir sprechen in dieser Folge u.a. darüber, wie wichtig das <strong>JETZT</strong> glücklich sein ist und warum wir mehr im hier und jetzt leben sollten. Außerdem werfen wir einen Blick auf ein paar neue Herausforderungen in der Selbstständigkeit, erkennen mal wieder wie wichtig Learning by doing ist und sprechen über Isi's alte Gewohnheit, sich immer den absoluten Worst Case auszumalen.&nbsp;</p><br><p>Folgst du uns schon auf Instagram? ➡️ https://instagram.com/waswennsklappt</p>]]></description>
+      <itunes:summary><![CDATA[<p>Mehr im Moment leben: Kannst du das gut? Wir sprechen in dieser Folge u.a. darüber, wie wichtig das <strong>JETZT</strong> glücklich sein ist und warum wir mehr im hier und jetzt leben sollten. Außerdem werfen wir einen Blick auf ein paar neue Herausforderungen in der Selbstständigkeit, erkennen mal wieder wie wichtig Learning by doing ist und sprechen über Isi's alte Gewohnheit, sich immer den absoluten Worst Case auszumalen.&nbsp;</p><br><p>Folgst du uns schon auf Instagram? ➡️ https://instagram.com/waswennsklappt</p>]]></itunes:summary>
+    </item>
     <item>
       <title>Einfach mal positiv(er) denken!</title>
       <itunes:title>Einfach mal positiv(er) denken!</itunes:title>
@@ -43,7 +61,7 @@
       <acast:episodeId>65042ce0e3147000102828c8</acast:episodeId>
       <acast:showId>6504228accb27600118a65b8</acast:showId>
       <acast:episodeUrl>einfach-mal-positiver-denken</acast:episodeUrl>
-      <acast:settings><![CDATA[Cben1Vp/EBH/TC/Vft/rqXdDZ+sVeU6WwhPVyBSrg7mGu8G9L9WYKe3jV3aKdxYLQhAfhkdbuNdHvdMnSO+oNDXNHpLwF0bZ2D4T3V/nptgqmIDfKrHBcsRqX7n7gvlJNp0dXAH8XRrSRtQcwjaf2mBPo2XhXc/yGnEF0iDTVWd78aMB4Db7M4YpXD7qxCcwFPxIODJXjoBVXe477yNXRDAETlKubQbkW6VOllkvMJd/IsD/gXULsq/7+Yb/5y+sa4BIbYSXykmmWEzBwfz+qqpKxAoKhIGqYv5c1zZHnNB9caspiorEia2Lw4cVvOsmKdnHuUrE48I+nXQq9Qi/BPAhSRqsW5Ixci2eaJyf94paU5leuq3ks71pp8kF5dwM8w51KKq0MCpJoqm34MzuJFwZ+dHwyvxN2N/tV9ZGPCeXq6yL8jgxCKIbwlwaRKQgj3u/1s1+BeubMYlmfLtYvYF9sBrmKXKWTTK8WeByK8mdl7GH6GCE+QA0Z0p7SdAyZHwNeUcxZozGnn1EyAd6y8NE8v/G/sFjaUJr8H2K80mmE1jem3Wn9CNO8fAUU84H]]></acast:settings>
+      <acast:settings><![CDATA[u2nrgTzcHhazowQmj4hYhyMsgVthaFdje+5/7tLvkqBrmnVR9+fB6tOxAfz+m+NSllGM57oCsrNVjClRz17zNyzPk/mFU5DuUp1soYeRrGX16B+h19zThSiLq7hYcY2eCxttENcMhliF7T7XFpBanZRuWOjpZGlfWSR1bHwsCEeu7mTGudDuSdxLob6BrVeYsS+6E4KEyd83PBR+4r4PPCCGlRWkV1m6Rb0IUueo1mP/UqHFgOa94J2y1XkK0t/SR3jpLzzNKgiatYJ9x1SybMJUAEm0yMFEGi9kfgpnSiAqK5++Py8Vj2fEbnqp1ky39QzLNo2HgsRmousytUVimdaTccV5T+JSMyK6CXQh46wgzOhz5mVq3h9ky51bvq7rLXCt3i+JlIX1dMBm73ST/n2USw/+x9OmpgCno6MLs5LhzpjsSXGu8a7hWqslIc78afOCl9v3Jth0H3qugRWkZFHaPS4J9kJQpwtb6A6WLtYjLb6q4ks+EPzBxp19wR7TwCXPyYGkydHVub374ClJj84MZjGLdQxsHt2N+GhiFqWnbrsj7W6459dhe9Grc+l5]]></acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
       <description><![CDATA[<p>In dieser Podcast Folge nehmen wir dich mit auf eine inspirierende Reise durch unsere persönlichen Erfahrungen. Wir erzählen, wie wir unsere Träume und Wünsche aktiv verfolgen, um ein erfülltes und abenteuerliches Leben zu führen. Dabei sprechen wir über die Bedeutung von positivem Denken, Selbstverwirklichung und der Offenheit für neue Möglichkeiten. Du erfährst von unseren Reiseerlebnissen und wie wir Hindernisse überwinden, um unsere Ziele zu erreichen. Diese Folge soll dich ermutigen, deine eigenen Träume anzugehen, negative Gedanken in positive umzuwandeln und den Mut zur Veränderung zu finden. Egal, ob du schon immer von einer Weltreise geträumt hast oder andere Ziele hast, unsere Geschichten sollen dir Inspiration bieten, um deine eigenen Träume zu verwirklichen.</p><br><p>Schau auch gerne auf YouTube vorbei <a href="https://www.youtube.com/@Waswennsklappt" rel="noopener noreferrer" target="_blank">https://www.youtube.com/@Waswennsklappt</a></p>]]></description>
