@@ -13,9 +13,13 @@ def process_xml(feed_url):
         "podaccess": "https://access.acast.com/schema/1.0/",
         "acast": "https://schema.acast.com/1.0/"
     }
+    headers = {
+        "Cache-Control": "no-cache",
+        "Pragma": "no-cache"
+    }
 
     # Download the XML file from the URL
-    response = requests.get(feed_url)
+    response = requests.get(feed_url, headers=headers)
 
     if response.status_code == 200:
         xml_data = response.content
