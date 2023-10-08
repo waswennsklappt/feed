@@ -4,7 +4,7 @@
     <ttl>60</ttl>
     <generator>acast.com</generator>
     <title><![CDATA[Was wenn's klappt?]]></title>
-    <lastBuildDate>Sun, 01 Oct 2023 07:33:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Oct 2023 07:48:52 +0000</lastBuildDate>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <link>https://waswennsklappt.de</link>
     <atom:link href="https://feed.waswennsklappt.de/feed.xml" rel="self" type="application/rss+xml"/>
@@ -22,8 +22,8 @@
     </itunes:owner>
     <acast:showId>6504228accb27600118a65b8</acast:showId>
     <acast:showUrl>was-wenns-klappt</acast:showUrl>
-    <acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[iIb2aLkqihqviK7NOUKAqg==]]></acast:signature>
-    <acast:settings><![CDATA[XSGPRBp2ar6G5dnj9MipE7/ikHoEi11mgDkWcoBlpO3rKztUUpQ08iMcdZgnCfFNCdfEHGq7Y/smYRHnepjOIQjTB7bG+rIlx1qfJnggv+BlorcOaqZp29X28lW2T83RH1pHotQJJ4kQfBPN/3PybDsMbV5ogMxUiilHEI3d8nyvC0sGPk/u82u0bWj1EDqZYwLTB9tvNNKMM/zgB2oKs3w5d43BCJ3To4L30tlVWcXgS8I0OEU2Uv5ndE/8qYNuB/yzOVu35uvXWp9qj5eO4e1vYghIMl9ltbIl8RpUg0VdpwLvSNl3yD0Bu+S80hOCPZYbioeZsdJkXH4eZ2RB0ZW6+NpU7iPAhxku2QrtX8N9m4M0+pnG1/xoM8HUveXvG479MqhaijGRAkztVHDbUfzQCLhGTCnzKx/3mtHXJEk5qAdR/+gf+3ct1eZRxCmt/s56QCLj0L3qKAyCXi+YJaesgWlVOfotKxGUsDA70Dk=]]></acast:settings>
+    <acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[523DQhQxt056Ao0AYy1BPg==]]></acast:signature>
+    <acast:settings><![CDATA[YKKviM60HFPfGhK7uCebVA9QeSvTO4EBif9jSZWJ4FqL1qsl8uNyWicvDaMwpeAMdqHrJeKifMHTNBF8Fxy3/KPygfwsRcnR8kFXJB9jjSXYQAX+oaKygwuMFbvFJ90doqiBEDxsgfwHMPj/mpi81geUPy25ZQYo8jtaFoOvHK23ryZn6Lh62lmY/usxMFXkG1T9qIMSCL81WteODQh3G8dG5CQMvxUC3EDU1VGqCY160hwWPsoOCBSc+EZ1I9XdC4z8z/+yarYaRsE14Z2f8amaMMaz9uT0PtiMq1vsiURmJ0tPTAU5k1pI7jge8idLeGCoXACcuoXDI3oh/nqaI4GpZEBBdXK99uiN3TwapZ5l0jCYDrJFOrLYYZXQQPUcokrsvdvHAFxTNEhM/cs7jXfbWe9YoSf7AAeZU4BOQ7mBi7mI/QQM5204oFvv8SnV+34D3Fzs4ADFgJdslGBizEtlvR3bRUe1KkSWDizfFzw=]]></acast:settings>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
     <image>
@@ -31,6 +31,24 @@
       <link>https://waswennsklappt.de</link>
       <title><![CDATA[Was wenn's klappt?]]></title>
     </image>
+    <item>
+      <title>Mehr soziale Kontakte im Alltag - nur wie?!</title>
+      <itunes:title>Mehr soziale Kontakte im Alltag - nur wie?!</itunes:title>
+      <pubDate>Sun, 08 Oct 2023 07:30:06 GMT</pubDate>
+      <itunes:duration>35:18</itunes:duration>
+      <enclosure url="https://media.blubrry.com/2994638/chrt.fm/track/C481C3/https://sphinx.acast.com/p/open/s/6504228accb27600118a65b8/e/651e2293de8b67001164a78a/media.mp3" length="69794677" type="audio/mpeg"/>
+      <guid isPermaLink="false">651e2293de8b67001164a78a</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://waswennsklappt.de/</link>
+      <acast:episodeId>651e2293de8b67001164a78a</acast:episodeId>
+      <acast:showId>6504228accb27600118a65b8</acast:showId>
+      <acast:episodeUrl>episode-4-tbd</acast:episodeUrl>
+      <acast:settings><![CDATA[YKKviM60HFPfGhK7uCebVNi6+CC/7oc5I4SeDnrkWLW/VMPNi4yub0fpFKZ8RV0dBm/Wd8I/m5WnlDYu/pQKFJaadFS7ooSSPHBXhE6/bPYK+6R3uVFVh+6GfWUPbwe2RojqHUdTQnBhozmS/KERE0d5FoCRS/+gPZH79onqW+sNA5sr/N6EYuf0qwAVqgCN+VQmjo9DGwkDDKLu1J02dwweBqw0GutvjU06FwF0gTa61W5xeSMX3H6T0RAGKE1p/nbMiWAVuTVZZWhH4fWvU10HhZSBZNiWbYCnCzB5Naf87hefn3sNGthLfKasbubRNeUDNpreuhOFQ1Qu+jnxUgI6ajUE72Gnu14ergd4gVQVH3xVBApX8FI0caJZSvhfhdUv2gMWmLw32Xn/lgMLJQnCxQ1bb4NnKu8LmATKwbQTSGe7aHv29R4NwBvGcCxOJAJtpsXyu1wrsSRBerOSpk+4mPWfaaGTGnrpwfvw1ihEIa0Rzk/MGsNW+c9wIot/qiw8AG05s/3i+W9kgS2igmRjJbDaRLvG55tewBOhgso=]]></acast:settings>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
+      <description><![CDATA[Wir merken immer wieder: Wir brauchen wieder mehr soziale Kontakte im Alltag! In dieser Podcast Folge sprechen wir über die Frage ob wir alle zu viel allein sind und wie wir es schaffen im Alltag wieder mehr unter Menschen zu sein. Wir wollen eine Zukunft unter Freunden, einen Alltag in Gemeinschaft, wo wir mehr zusammen machen und uns nicht nur alle 5 Wochen mal nach einem stressigen Arbeitstag für eine Stunde sehen. Vielleicht sollten wir als Lösung einfach eine große Land WG gründen? 😄]]></description>
+      <itunes:summary><![CDATA[Wir merken immer wieder: Wir brauchen wieder mehr soziale Kontakte im Alltag! In dieser Podcast Folge sprechen wir über die Frage ob wir alle zu viel allein sind und wie wir es schaffen im Alltag wieder mehr unter Menschen zu sein. Wir wollen eine Zukunft unter Freunden, einen Alltag in Gemeinschaft, wo wir mehr zusammen machen und uns nicht nur alle 5 Wochen mal nach einem stressigen Arbeitstag für eine Stunde sehen. Vielleicht sollten wir als Lösung einfach eine große Land WG gründen? 😄]]></itunes:summary>
+    </item>
     <item>
       <title>Wo ein Wille, da ein Weg</title>
       <itunes:title>Wo ein Wille, da ein Weg</itunes:title>
@@ -43,7 +61,7 @@
       <acast:episodeId>650e7478e663d90011bcefff</acast:episodeId>
       <acast:showId>6504228accb27600118a65b8</acast:showId>
       <acast:episodeUrl>wo-ein-wille-da-ein-weg</acast:episodeUrl>
-      <acast:settings><![CDATA[XSGPRBp2ar6G5dnj9MipE6WMI4KjwAVeV1dP5XagKZCmVeAaaR9dsZW9gou028t9G6fCMw8k+CIOd/RIKt0TpX3pGUMURAi1n3ncUDzDXu36cSbsM/nTOG8CjWMEkIYswMT70TYrq+2KW2uAiwLYXArbh1wXQoLoLsNth2ZDRRqc5MfYUTB0fpUzSc30peaSfmLEHvaMIfW6loMkeDgYHWscUrjeFFISWb1c3hu/d4Q5JkCY9gDzlOaBuRETBsQJYJSrWRPeCjjlvMHt7Q/VTPuWqebs69ZjpgnVhBasbWQluDzvACun4iNbDcckLKWTR9fNumkbu5Wsga5jyX57xaMxY8i/5BS+NVZ123xH/uqgVvcXrqrabMzh50G0en6mQr1PjupCrCeiojEoPugboBBBEM/6Gl++8/lgBnRHFIHS8TAZ0PaRnxi+fAeYvajtF15xIhKihRCeRgxu5ZUBtfGZfHtwMzh0zbTzQ13URrIiqLNbwapSUNVQZFZfg1WeYsZDA3JbOkbWSqTMwzjP9pnBLifk3lJDJAYgEFXQS0Q=]]></acast:settings>
+      <acast:settings><![CDATA[YKKviM60HFPfGhK7uCebVNi6+CC/7oc5I4SeDnrkWLW/VMPNi4yub0fpFKZ8RV0dBm/Wd8I/m5WnlDYu/pQKFJaadFS7ooSSPHBXhE6/bPYK+6R3uVFVh+6GfWUPbwe2RojqHUdTQnBhozmS/KERE0d5FoCRS/+gPZH79onqW+sNA5sr/N6EYuf0qwAVqgCN+VQmjo9DGwkDDKLu1J02dwweBqw0GutvjU06FwF0gTa61W5xeSMX3H6T0RAGKE1p/nbMiWAVuTVZZWhH4fWvU10HhZSBZNiWbYCnCzB5Naf87hefn3sNGthLfKasbubRNeUDNpreuhOFQ1Qu+jnxUgI6ajUE72Gnu14ergd4gVQVH3xVBApX8FI0caJZSvhfhdUv2gMWmLw32Xn/lgMLJQnCxQ1bb4NnKu8LmATKwbQTSGe7aHv29R4NwBvGcCxOJAJtpsXyu1wrsSRBerOSpiAWlf9AaOz0vweI483SKGkyftzsRAmvf7XaRD7ZGp2KRlY7lkfoBaVbpjrz8mRqrkS/F4Q6w7ArQDhoE5p5RQ0=]]></acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
       <description><![CDATA[<p>Schonmal drüber nachgedacht, was Ängste mit dir machen? Dass dein Umgang mit Angst eine Gewohnheit ist, die du umtrainieren kannst? In dieser Was wenn's klappt Podcast Folge sprechen wir u.a über unseren Umgang mit Ängsten, über inspirierende Menschen, die uns hier in Neuseeland begegnet sind und über das Hinterfragen von gesellschaftlichen Standards!</p><br><p>Folgst du uns schon auf Instagram? ➡️ <a href="https://instagram.com/waswennsklappt" rel="noopener noreferrer" target="_blank">https://instagram.com/waswennsklappt</a></p><p>Folgst du uns schon auf YouTube? ➡️ <a href="https://youtube.com/@waswennsklappt" rel="noopener noreferrer" target="_blank">https://youtube.com/@waswennsklappt</a></p><p>Unsere Website: 🌐 <a href="https://waswennsklappt.de/" rel="noopener noreferrer" target="_blank">https://waswennsklappt.de</a></p>]]></description>
@@ -61,7 +79,7 @@
       <acast:episodeId>650e2fb25514040011c091fd</acast:episodeId>
       <acast:showId>6504228accb27600118a65b8</acast:showId>
       <acast:episodeUrl>lass-mal-mehr-im-moment-leben</acast:episodeUrl>
-      <acast:settings><![CDATA[XSGPRBp2ar6G5dnj9MipE6WMI4KjwAVeV1dP5XagKZCmVeAaaR9dsZW9gou028t9G6fCMw8k+CIOd/RIKt0TpX3pGUMURAi1n3ncUDzDXu36cSbsM/nTOG8CjWMEkIYswMT70TYrq+2KW2uAiwLYXArbh1wXQoLoLsNth2ZDRRqc5MfYUTB0fpUzSc30peaSfmLEHvaMIfW6loMkeDgYHWscUrjeFFISWb1c3hu/d4Q5JkCY9gDzlOaBuRETBsQJYJSrWRPeCjjlvMHt7Q/VTPuWqebs69ZjpgnVhBasbWQluDzvACun4iNbDcckLKWTR9fNumkbu5Wsga5jyX57xaMxY8i/5BS+NVZ123xH/uqgVvcXrqrabMzh50G0en6mQr1PjupCrCeiojEoPugboBBBEM/6Gl++8/lgBnRHFIHS8TAZ0PaRnxi+fAeYvajtF15xIhKihRCeRgxu5ZUBtXH1kerZguoeT7k+qHOznbsTtEGK3MICp6jNgdNlmci61zRzO2a6RCyjoWjxysW0kJSMMs27mdBDnmS2lQosULE=]]></acast:settings>
+      <acast:settings><![CDATA[YKKviM60HFPfGhK7uCebVNi6+CC/7oc5I4SeDnrkWLW/VMPNi4yub0fpFKZ8RV0dBm/Wd8I/m5WnlDYu/pQKFJaadFS7ooSSPHBXhE6/bPYK+6R3uVFVh+6GfWUPbwe2RojqHUdTQnBhozmS/KERE0d5FoCRS/+gPZH79onqW+sNA5sr/N6EYuf0qwAVqgCN+VQmjo9DGwkDDKLu1J02dwweBqw0GutvjU06FwF0gTa61W5xeSMX3H6T0RAGKE1p/nbMiWAVuTVZZWhH4fWvU10HhZSBZNiWbYCnCzB5Naf87hefn3sNGthLfKasbubRNeUDNpreuhOFQ1Qu+jnxUgI6ajUE72Gnu14ergd4gVQVH3xVBApX8FI0caJZSvhfhdUv2gMWmLw32Xn/lgMLJQnCxQ1bb4NnKu8LmATKwbQTSGe7aHv29R4NwBvGcCxOJAJtpsXyu1wrsSRBerOSpnWovjxC9EoB/O9BQiWlr+k9vZ4kdCXHFFMROleOlw395JEdnFTC98nZIK0ZdMvACOpQ7JGq8mE0H9NCqboOuh0=]]></acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
       <description><![CDATA[<p>Mehr im Moment leben: Kannst du das gut? Wir sprechen in dieser Folge u.a. darüber, wie wichtig das <strong>JETZT</strong> glücklich sein ist und warum wir mehr im hier und jetzt leben sollten. Außerdem werfen wir einen Blick auf ein paar neue Herausforderungen in der Selbstständigkeit, erkennen mal wieder wie wichtig <em><u>Learning by doing</u></em> ist und sprechen über Isi's alte Gewohnheit, sich immer den absoluten Worst Case auszumalen.&nbsp;</p><br><p>Folgst du uns schon auf Instagram? 📱 <a href="https://instagram.com/waswennsklappt" rel="noopener noreferrer" target="_blank">https://instagram.com/waswennsklappt</a></p><p>Folgst du uns schon auf YouTube? 📺 <a href="https://youtube.com/@waswennsklappt" rel="noopener noreferrer" target="_blank">https://youtube.com/@waswennsklappt</a></p><p>Unsere Website: 🌐 <a href="https://waswennsklappt.de" rel="noopener noreferrer" target="_blank">https://waswennsklappt.de</a></p>]]></description>
@@ -79,7 +97,7 @@
       <acast:episodeId>65042ce0e3147000102828c8</acast:episodeId>
       <acast:showId>6504228accb27600118a65b8</acast:showId>
       <acast:episodeUrl>einfach-mal-positiver-denken</acast:episodeUrl>
-      <acast:settings><![CDATA[XSGPRBp2ar6G5dnj9MipE6WMI4KjwAVeV1dP5XagKZCmVeAaaR9dsZW9gou028t9G6fCMw8k+CIOd/RIKt0TpX3pGUMURAi1n3ncUDzDXu36cSbsM/nTOG8CjWMEkIYswMT70TYrq+2KW2uAiwLYXArbh1wXQoLoLsNth2ZDRRqc5MfYUTB0fpUzSc30peaSfmLEHvaMIfW6loMkeDgYHWscUrjeFFISWb1c3hu/d4Q5JkCY9gDzlOaBuRETBsQJYJSrWRPeCjjlvMHt7Q/VTPuWqebs69ZjpgnVhBasbWQluDzvACun4iNbDcckLKWTR9fNumkbu5Wsga5jyX57xaMxY8i/5BS+NVZ123xH/uqgVvcXrqrabMzh50G0en6mQr1PjupCrCeiojEoPugboBBBEM/6Gl++8/lgBnRHFIHS8TAZ0PaRnxi+fAeYvajtg65aqzlzoMAig98vFw54t+S50aSomftUrBqKUnIQLUvhjICOiEvBf/GH4sguNX1m7CgMptXrb6R+nGoXAcDZPxXioQqWmS9lSbhaPPU8pKjSz9p1nQCo1EWS2K0t3wW2]]></acast:settings>
+      <acast:settings><![CDATA[YKKviM60HFPfGhK7uCebVNi6+CC/7oc5I4SeDnrkWLW/VMPNi4yub0fpFKZ8RV0dBm/Wd8I/m5WnlDYu/pQKFJaadFS7ooSSPHBXhE6/bPYK+6R3uVFVh+6GfWUPbwe2RojqHUdTQnBhozmS/KERE0d5FoCRS/+gPZH79onqW+sNA5sr/N6EYuf0qwAVqgCN+VQmjo9DGwkDDKLu1J02dwweBqw0GutvjU06FwF0gTa61W5xeSMX3H6T0RAGKE1p/nbMiWAVuTVZZWhH4fWvU10HhZSBZNiWbYCnCzB5Naf87hefn3sNGthLfKasbubRNeUDNpreuhOFQ1Qu+jnxUgI6ajUE72Gnu14ergd4gVQVH3xVBApX8FI0caJZSvhfhdUv2gMWmLw32Xn/lgMLJQnCxQ1bb4NnKu8LmATKwbQTSGe7aHv29R4NwBvGcCxOeYfWeg/uuTlF7zImXF1bIjBjhAsZEEWgvO/oMflby0F64MmSNSyQMzpdvU4dRlNjiVxJAYp50E99M4iNdc/i0r1IRhIR+vdGLhiYwZRvy3FpTtjDYOmhT6OMWpI66P5c]]></acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
       <description><![CDATA[<p>In dieser Podcast Folge nehmen wir dich mit auf eine inspirierende Reise durch unsere persönlichen Erfahrungen. Wir erzählen, wie wir unsere Träume und Wünsche aktiv verfolgen, um ein erfülltes und abenteuerliches Leben zu führen. Dabei sprechen wir über die Bedeutung von positivem Denken, Selbstverwirklichung und der Offenheit für neue Möglichkeiten. Du erfährst von unseren Reiseerlebnissen und wie wir Hindernisse überwinden, um unsere Ziele zu erreichen. Diese Folge soll dich ermutigen, deine eigenen Träume anzugehen, negative Gedanken in positive umzuwandeln und den Mut zur Veränderung zu finden. Egal, ob du schon immer von einer Weltreise geträumt hast oder andere Ziele hast, unsere Geschichten sollen dir Inspiration bieten, um deine eigenen Träume zu verwirklichen.</p><br><p>Folgst du uns schon auf Instagram? ➡️ <a href="https://instagram.com/waswennsklappt" rel="noopener noreferrer" target="_blank">https://instagram.com/waswennsklappt</a></p><p>Schau auch gerne auf YouTube vorbei <a href="https://www.youtube.com/@Waswennsklappt" rel="noopener noreferrer" target="_blank">https://www.youtube.com/@Waswennsklappt</a></p><p>Unsere Website: 🌐 <a href="https://waswennsklappt.de/" rel="noopener noreferrer" target="_blank">https://waswennsklappt.de</a></p>]]></description>
