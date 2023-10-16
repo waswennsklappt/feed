@@ -1,1 +1,1 @@
-# waswennsklappt.github.io
+# feed.waswennsklappt.de/feed.xml
