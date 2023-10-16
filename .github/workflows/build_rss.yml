@@ -18,12 +18,20 @@ jobs:
           python -m pip install lxml
           python -m pip install requests
           python scripts/update_feed.py
+      - name: Get current time
+        uses: josStorer/get-current-time@v2
+        id: current-time
+        with:
+          format: YYYYMMDD-HH
+          utcOffset: "+00:00"
       - name: Commit files
+        env:
+          R_TIME: "${{ steps.current-time.outputs.readableTime }}"
         run: |
           git config --local user.name  "github-actions[bot]"        
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "[bot] Updating feed"
+          git commit -m "[bot] Updating feed on $R_TIME"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
