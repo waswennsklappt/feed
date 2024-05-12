@@ -4,7 +4,7 @@
     <ttl>60</ttl>
     <generator>acast.com</generator>
     <title><![CDATA[Was wenn's klappt?]]></title>
-    <lastBuildDate>Sun, 05 May 2024 07:32:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 07:32:26 +0000</lastBuildDate>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <link>https://waswennsklappt.de</link>
     <atom:link href="https://feed.waswennsklappt.de/feed.xml" rel="self" type="application/rss+xml"/>
@@ -15,7 +15,7 @@
     <itunes:subtitle/>
     <itunes:summary><![CDATA[Denkst du oft dran, was im schlimmsten Fall passieren könnte? Wie wärs stattdessen einfach mal öfter vom Positiven auszugehen? Wir sprechen in unserem Podcast über die kleinen Alltagsmomente, wie uns eine offene Einstellung zu einem glücklicheren Leben verhilft und ermutigen dich: Denke in deinem Leben einfach öfter mal <strong><em>Was wenn's klappt?</em></strong>]]></itunes:summary>
     <description><![CDATA[Denkst du oft dran, was im schlimmsten Fall passieren könnte? Wie wärs stattdessen einfach mal öfter vom Positiven auszugehen? Wir sprechen in unserem Podcast über die kleinen Alltagsmomente, wie uns eine offene Einstellung zu einem glücklicheren Leben verhilft und ermutigen dich: Denke in deinem Leben einfach öfter mal <strong><em>Was wenn's klappt?</em></strong>]]></description>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <itunes:owner>
       <itunes:name><![CDATA[Isabelle Moegelin & Marco Greiveldinger]]></itunes:name>
       <itunes:email>hallo@waswennsklappt.de</itunes:email>
@@ -23,7 +23,7 @@
     <acast:showId>6504228accb27600118a65b8</acast:showId>
     <acast:showUrl>was-wenns-klappt</acast:showUrl>
     <acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[wbG1Z7+6h9QOi+CR1Dv0uQ==]]></acast:signature>
-    <acast:settings><![CDATA[Mmi9XlfQiyuva10SqTHvHJRohtyLb24/SSDjvQrUPW/u3BY2Nao6CHSDHaU/e2hsMxOVrttTkh4dDG5lr/l932lUzGguw1TDw4guvexk0099EtvuB6WEpCwQbNQAOboKVqQzNLKPO5OJnPVbmB6o5ozwe9jbbwbAFTRyqJjxZMeREEk6Te24erfis7bWTxfLbCtGDPhw/5S5V6n9DpDdGSoG5WPgk62EALr5uCd03Z7hu5C6dkM6q3R7FQNPKP0w+D/s72EhaJVqMmDi39yaN+cSdSrl2enb/HADzk7/0p5J6OOzhm0ptsFD6J5rn2a1iSNVKn1EgyJQ39cCCng+4fwFGH+0ZMV1Ilb5bm7YP8pprxPHlim3Ropdwr1/WXAzxb+zbALeo8dhpXuy9W37cfR9fLR79vHQ3m9ASRKl4XAzMRPkCO3HWOGdrNhCIAjYd6iAJ+3o2g9YOn8JlJQ2iDRPu3lFArx4b2S1N1eiQPZzQmYPW5UGQFN09cJNdMD5q9LlWSF74+FKpnwJXXerPvBBYeDd9HmZAoYZLD6oXJ1Yh4d3+4l/0Upfas5b1pwaIv0FIGIhHu4bE7tx4wK58HL9FkB4cnSHdVFv8vQYlDWJisjO09KVRNxQG5iI335qdQOU/HhPR8ezO1RyP2Fdl0D5r/dv1B62MSf2Zwk63LF0WyYGe+HCUa8kfVi4Wf8o/zHBYGDyJk0VAL5QVeKdyw==]]></acast:settings>
+    <acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmccH38fUl6WBk0zd1jmKqMvBfiDew4BCK38/u1YuxHKNCZGkvX8UWH1HbgTuGiw4+9qAm341+8EIY2O7KmEDqBprMyhEhMeJIovB/eBOd/Gs7eN72hE6rOmpyz+9+S68CnrHYH9M1LVNhFQRy9DsapbciBYw/yclrItAbV7xxdMJ++Pc2QLC3H4N1AlYYfOe4GN8PDGToGatfnyP68nTLsA=]]></acast:settings>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
     <image>
@@ -38,12 +38,12 @@
       <itunes:duration>1:06:12</itunes:duration>
       <enclosure url="https://media.blubrry.com/2994638/chrt.fm/track/C481C3/https://sphinx.acast.com/p/open/s/6504228accb27600118a65b8/e/66226b70b137b70012a22fa8/media.mp3" length="129813058" type="audio/mpeg"/>
       <guid isPermaLink="false">66226b70b137b70012a22fa8</guid>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <link>https://waswennsklappt.de/</link>
       <acast:episodeId>66226b70b137b70012a22fa8</acast:episodeId>
       <acast:showId>6504228accb27600118a65b8</acast:showId>
       <acast:episodeUrl>vom-arbeitnehmerleben-in-die-selbststandigkeit-</acast:episodeUrl>
-      <acast:settings><![CDATA[Mmi9XlfQiyuva10SqTHvHIUYNDO/KB6nkmZKMSEU6KK3jDhzRuOvH6hQddI5ArdP1sWQ/fRoiDIlIcrFvGe0bR9qdOvcIJThSTsxf+Fgdh5a5WC61WBqVvdVkz9POX9gzfX7FkM3gmKyXOF8vNGI18EcrNJgKERlsEEcZy2zBEU9ME5k7N4klmfSLMLvLik+FWXXB2VBEErbcw2DdsTYCgNrePxIkFH/A//9EWTjr5YBnQ8AuYRMNMmHIAPqLtB+lBbDpNFPN6uq2G0g9vQrVptfqxSIHc6PGqoEzMvFuPEIdzsSsPYXVjdx0P6i1/LZQICVP8JB6hNqY8hNY5JOwjpHpRohINZEKwvMHSVNk7uDPcpZjd8v1nKHBQFRuRIoaE5PzpCFL1MZ8FxMlLnl8VpyHkXPYXHa80lRQnsHIUwkdzMgHgTYcR+WL8vFbONPE2T+uJgAFh2+caxtBGYXp+efL9GvRVO2PlB/Il4qX9iLn8uUHg/b0LQCoqaD3tOtmL42p9f6t1cuVNXBr1CRCJT/cgwxhEKBbqbw7JDKPABGGIhh+Giw1DefPgEULHBzf2uCCCs/qJdoOJY+Gt/RIJVyBrvtKqi9xTEbz389Cp9dGXm2aTRFa6vWRRaN1kLyB8QcMpEoBDnvMOfvQrrjOdjPdkWScUgedisKdsHyLTxTZzrDRR2FKhvFAxHSFC5SLdC2siRVnDYqVDONqVBGzsviDJjDFAty9RL3tuzGhnC5WQqSJ0GKq8ZXhIH4MDcfBW8yZeY1A9TqEWse385Vne8vnAogIXBU8Up/Avgm2N1PhFuYa4ZrmX7bevQkBJpKrZsQYOqqnR6lmXjELbj0Ud9IurJrwPFuFLPZvNU6sZs=]]></acast:settings>
+      <acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6Zs8z4+Wx95XDJvKs3vbmvv8L67MZL0XEyyiDjOilZlCMhGYpaJCODAfGNo1brfuL0izE6a+peUsyROkKGACmJJc+fIrDQWkmVn5X8NubrJdXHWCDM37RXs2uRQ4iBi8M+a]]></acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
       <description><![CDATA[<p>Yippieee, unsere erste Interviewfolge! In der heutigen Was wenn's klappt Episode sprechen wir mit einer guten Freundin über den mutigen Wechsel vom Arbeitnehmerleben in die Selbstständigkeit.</p><br><p>Home Staging Concept: https://homestagingconcept.de/</p><p>Folgst du uns schon auf YouTube? ➡️ https://youtube.com/@waswennsklappt</p><p>Unsere Website: 🌐 https://waswennsklappt.de</p>]]></description>
@@ -56,12 +56,12 @@
       <itunes:duration>46:34</itunes:duration>
       <enclosure url="https://media.blubrry.com/2994638/chrt.fm/track/C481C3/https://sphinx.acast.com/p/open/s/6504228accb27600118a65b8/e/66167dd84ba489001829f723/media.mp3" length="91871158" type="audio/mpeg"/>
       <guid isPermaLink="false">66167dd84ba489001829f723</guid>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <link>https://waswennsklappt.de/</link>
       <acast:episodeId>66167dd84ba489001829f723</acast:episodeId>
       <acast:showId>6504228accb27600118a65b8</acast:showId>
       <acast:episodeUrl>offener-uber-gefuhle-emotionen-sprechen-das-hat-es-bei-uns-v</acast:episodeUrl>
-      <acast:settings><![CDATA[Mmi9XlfQiyuva10SqTHvHIUYNDO/KB6nkmZKMSEU6KK3jDhzRuOvH6hQddI5ArdP1sWQ/fRoiDIlIcrFvGe0bR9qdOvcIJThSTsxf+Fgdh5a5WC61WBqVvdVkz9POX9gzfX7FkM3gmKyXOF8vNGI18EcrNJgKERlsEEcZy2zBEU9ME5k7N4klmfSLMLvLik+FWXXB2VBEErbcw2DdsTYCgNrePxIkFH/A//9EWTjr5YBnQ8AuYRMNMmHIAPqLtB+lBbDpNFPN6uq2G0g9vQrVptfqxSIHc6PGqoEzMvFuPEIdzsSsPYXVjdx0P6i1/LZQICVP8JB6hNqY8hNY5JOwjpHpRohINZEKwvMHSVNk7uDPcpZjd8v1nKHBQFRuRIoaE5PzpCFL1MZ8FxMlLnl8VpyHkXPYXHa80lRQnsHIUwkdzMgHgTYcR+WL8vFbONPE2T+uJgAFh2+caxtBGYXp+efL9GvRVO2PlB/Il4qX9gd9RIW6O5IVE8Y2Z7vHai5BtZWvL6s7S8lJnk0yvEtToq9rOnjTnTqFYMhj7Vl3NBMRptvI4Cjlu1K+GGN4yxobveNNx5cyByJHVGSdLEBLkWCJBOf38yk+nxGhSkLRa5AtndKrmg+0Ae1mR5TPnQRd97zfhAp1D7lDMsap+wX+WYrn3U9sZTjHhChr4i4WSM+3m+fzeSlc3RtrXYrLjEiX5jrPHN1OdZe1qQSJETU2U9XNpEby6dKlz26TnmII1/zS7EZxiKFWGIOe2kOudWgCZydzejQjgYOVI/empfMU8LOZZxjIm8BUzxuclZ3FtM5I5HX30SbPRYfKCv/n9UerUY1lLmPuroycH2+hf10U5hs4yAqZjg56W2RTjCLwu0=]]></acast:settings>
+      <acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6Zs8z4+Wx95XDJvKs3vbmvv8L67MZL0XEyyiDjOilZlCMiTMx+VV7PXu762kYvrh0/hFUETH1tIVZrRRgeb58SMY0c4SnTcZIOQSsM/ntQO0CltEtIah8TxjdWSTKD+fAbi]]></acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
       <description><![CDATA[<p>Offen über die eigenen Gefühle zu sprechen, kann schwer sein. Da ist die Angst vor Ablehnung, die Angst, was falsches zu sagen oder einfach dieses Unwohlgefühl, sich damit so in den Mittelpunkt zu stellen. Warum wir aber glauben, dass wir alle viel mehr über unsere Emotionen sprechen sollten, um stärkere Bindungen zu Freunden, Familie und dem Partner aufzubauen? Darüber sprechen wir in der heutigen Was wenn's klappt Episode!</p><br><p><br></p><p>Folgst du uns schon auf YouTube? ➡️ https://youtube.com/@waswennsklappt</p><p>Unsere Website: 🌐 https://waswennsklappt.de</p>]]></description>
@@ -74,12 +74,12 @@
       <itunes:duration>37:31</itunes:duration>
       <enclosure url="https://media.blubrry.com/2994638/chrt.fm/track/C481C3/https://sphinx.acast.com/p/open/s/6504228accb27600118a65b8/e/661249a054ba0e0016d9cf59/media.mp3" length="73805296" type="audio/mpeg"/>
       <guid isPermaLink="false">661249a054ba0e0016d9cf59</guid>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <link>https://waswennsklappt.de/</link>
       <acast:episodeId>661249a054ba0e0016d9cf59</acast:episodeId>
       <acast:showId>6504228accb27600118a65b8</acast:showId>
       <acast:episodeUrl>entscheidungen-treffen-in-einer-welt-voller-uberfluss</acast:episodeUrl>
-      <acast:settings><![CDATA[Mmi9XlfQiyuva10SqTHvHIUYNDO/KB6nkmZKMSEU6KK3jDhzRuOvH6hQddI5ArdP1sWQ/fRoiDIlIcrFvGe0bR9qdOvcIJThSTsxf+Fgdh5a5WC61WBqVvdVkz9POX9gzfX7FkM3gmKyXOF8vNGI18EcrNJgKERlsEEcZy2zBEU9ME5k7N4klmfSLMLvLik+FWXXB2VBEErbcw2DdsTYCgNrePxIkFH/A//9EWTjr5YBnQ8AuYRMNMmHIAPqLtB+lBbDpNFPN6uq2G0g9vQrVptfqxSIHc6PGqoEzMvFuPEIdzsSsPYXVjdx0P6i1/LZQICVP8JB6hNqY8hNY5JOwjpHpRohINZEKwvMHSVNk7uDPcpZjd8v1nKHBQFRuRIoaE5PzpCFL1MZ8FxMlLnl8VpyHkXPYXHa80lRQnsHIUwkdzMgHgTYcR+WL8vFbONPE2T+uJgAFh2+caxtBGYXp+efL9GvRVO2PlB/Il4qX9g4TeLUdG5FUaAF5Af/7tKON7KmpZIxhwyZd3Z74BprTf6DUSQHBuiEpr9tWKqUzrdu3/aFwtnnJ1riRE0AeI4s3WqriZLvczdGwG3Fm5A7O5XKhEYWb1+Aj6ZpYgZmON/C5NeEfpuL4S/XSFw7QcAD/xnxDd5AOg5OCom1kh2ATTTBr2TZGCZ7ZwjdvTEo9dPoUWcyGdW1MYLrhpG8PvBFho2JZncSonpwffJitpZ4JlHZrdxa9NSPF8ijEP7KWrCXL6I8nZtAGnHZcMh8n4F4BG2t51hE55SsWvNcgz9y9IE6wklMgIGNXgiocfU2Ve3eJrc27zh/PyC6ignI8TazyWDvzTnVZk8ooF5qspEXx+xGMTEJlMUgeQ7Wwxi3oeg=]]></acast:settings>
+      <acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6Zs8z4+Wx95XDJvKs3vbmvv8L67MZL0XEyyiDjOilZlCMg8r2tdXjnRMtQ5fAHpmskUPy2e37Z7BAZGIb3bUbmlQDKeyPkXHsh/6CupooWyL1pbpCLrPH+W9RTrCZ0lKXO5]]></acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
       <description><![CDATA[<p>Verspürst du manchmal eine Angst vor falschen Entscheidungen? Oder bist vor lauter Überangebot in unserer heutigen Welt mit dem Treffen von der richtigen Entscheidung einfach maßlos überfordert? Wir haben gemerkt: Mit dem Wachsen von Angebot in allen Lebensbereichen, wächst auch die Überwältigung von genau all diesem Angebot.</p><br><p>In dieser Was wenns klappt Episode teilen wir mit dir, wie wir mit diesem Überangebot lernen zu leben und welche Maßnahmen wir ergreifen, um besser entscheiden zu können!</p><br><p>Wie steht’s um Entscheidungen in deinem Alltag? Teile uns deine Erfahrungen gern in den Kommentaren :)</p><br><p>Folgst du uns schon auf YouTube? ➡️ https://youtube.com/@waswennsklappt</p><p>Unsere Website: 🌐 https://waswennsklappt.de</p>]]></description>
@@ -92,12 +92,12 @@
       <itunes:duration>53:56</itunes:duration>
       <enclosure url="https://media.blubrry.com/2994638/chrt.fm/track/C481C3/https://sphinx.acast.com/p/open/s/6504228accb27600118a65b8/e/6608445a3207c300174a7d01/media.mp3" length="106313477" type="audio/mpeg"/>
       <guid isPermaLink="false">6608445a3207c300174a7d01</guid>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <link>https://waswennsklappt.de/</link>
       <acast:episodeId>6608445a3207c300174a7d01</acast:episodeId>
       <acast:showId>6504228accb27600118a65b8</acast:showId>
       <acast:episodeUrl>beruflich-neu-anfangen-erfullt-arbeiten-und-die-angst-vorm-k</acast:episodeUrl>
-      <acast:settings><![CDATA[Mmi9XlfQiyuva10SqTHvHIUYNDO/KB6nkmZKMSEU6KK3jDhzRuOvH6hQddI5ArdP1sWQ/fRoiDIlIcrFvGe0bR9qdOvcIJThSTsxf+Fgdh5a5WC61WBqVvdVkz9POX9gzfX7FkM3gmKyXOF8vNGI18EcrNJgKERlsEEcZy2zBEU9ME5k7N4klmfSLMLvLik+FWXXB2VBEErbcw2DdsTYCgNrePxIkFH/A//9EWTjr5YBnQ8AuYRMNMmHIAPqLtB+lBbDpNFPN6uq2G0g9vQrVptfqxSIHc6PGqoEzMvFuPEIdzsSsPYXVjdx0P6i1/LZQICVP8JB6hNqY8hNY5JOwjpHpRohINZEKwvMHSVNk7uDPcpZjd8v1nKHBQFRuRIoaE5PzpCFL1MZ8FxMlLnl8VpyHkXPYXHa80lRQnsHIUwkdzMgHgTYcR+WL8vFbONPE2T+uJgAFh2+caxtBGYXp+efL9GvRVO2PlB/Il4qX9i9n8QniqvE0EJFZJqWjEmH2aNPGk7tHCsiie7iPHNWofkS1n6o0QhWw9kjQp1YE8i0COQPYCMEkRNzilpRCkh+zQbMjfR0CoAk/VvN83Bxit5uojivgERmq7yPTKMBhtJJiooC98Y+MMv5iKVsox2OoZ1j1xQCJpGRIhjadnkns9Zdg6rsr+ypcaxaTHcmgVhVwuQeHZVQ7vSFqQCfEB9QYXdounhQOpJVuC6uUmJaAfAgkwN7LYivpifzy51UFrJq5YmNnuE92SRkP+iXbX7IORXyY66xVlmstLlkb8/t3QL/7BPi1JbhlbZaECnFFHTNHgn0DyH+CEoIzqfA6ieVXdVWlSRiEQ+52XomWTmd2PFy7hroMik/p8ff1E82a+I=]]></acast:settings>
+      <acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6Zs8z4+Wx95XDJvKs3vbmvv8L67MZL0XEyyiDjOilZlCMiHVz5krH4B13ajW4lemgNHRP8gPKdElqvB3h3g5cADz39vQ77prUmwSmsREPkXgHh/HYWAYKHp/1/FyqozRisF]]></acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
       <description><![CDATA[<p>Wir alle möchten erfüllt arbeiten und denken vielleicht manchmal über's beruflich neu anfangen nach. Aber warum ist dieses Thema Karriere ändern in Deutschland so wenig verbreitet? Warum scheint eine berufliche Neuorientierung oft nach einer riesig großen Hürde, wenn wir sie auch einfach als spannende Chance sehen könnten? Wir sprechen heute über unsere persönliche Erfahrung rund um's Beruf wechseln und auch die Angst vor einem Jobwechsel! </p><br><p>Folgst du uns schon auf YouTube? ➡️ https://youtube.com/@waswennsklappt</p><p>Unsere Website: 🌐 https://waswennsklappt.de</p>]]></description>
@@ -110,12 +110,12 @@
       <itunes:duration>43:32</itunes:duration>
       <enclosure url="https://media.blubrry.com/2994638/chrt.fm/track/C481C3/https://sphinx.acast.com/p/open/s/6504228accb27600118a65b8/e/65fadcec2201590017b3ce43/media.mp3" length="85741062" type="audio/mpeg"/>
       <guid isPermaLink="false">65fadcec2201590017b3ce43</guid>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <link>https://shows.acast.com/was-wenns-klappt/episodes/die-eigene-identitat-finden-und-sich-neu-definieren</link>
       <acast:episodeId>65fadcec2201590017b3ce43</acast:episodeId>
       <acast:showId>6504228accb27600118a65b8</acast:showId>
       <acast:episodeUrl>die-eigene-identitat-finden-und-sich-neu-definieren</acast:episodeUrl>
-      <acast:settings><![CDATA[Mmi9XlfQiyuva10SqTHvHIUYNDO/KB6nkmZKMSEU6KK3jDhzRuOvH6hQddI5ArdP1sWQ/fRoiDIlIcrFvGe0bR9qdOvcIJThSTsxf+Fgdh5a5WC61WBqVvdVkz9POX9gzfX7FkM3gmKyXOF8vNGI18EcrNJgKERlsEEcZy2zBEU9ME5k7N4klmfSLMLvLik+FWXXB2VBEErbcw2DdsTYCgNrePxIkFH/A//9EWTjr5YBnQ8AuYRMNMmHIAPqLtB+lBbDpNFPN6uq2G0g9vQrVptfqxSIHc6PGqoEzMvFuPEIdzsSsPYXVjdx0P6i1/LZQICVP8JB6hNqY8hNY5JOwjpHpRohINZEKwvMHSVNk7uDPcpZjd8v1nKHBQFRuRIoaE5PzpCFL1MZ8FxMlLnl8VpyHkXPYXHa80lRQnsHIUwkdzMgHgTYcR+WL8vFbONPE2T+uJgAFh2+caxtBGYXp+efL9GvRVO2PlB/Il4qX9g1TedOr6mjyVr944FVjkUmBIRd1VTTqSw9aBZFJ/4aEU62Hkicb4L11pK95x/NSf7Aw9QXA2pcy2N7Apnf9q47K5UbzFJ6SZjGm9OCKJcqBWqRCc+Zbdw7iiLHToFcacIR7IP4Otf7GHu12VdYhd3Be6btpFGnnmWJvXdPbYesFTHpYo1TTdLABmjdZMk15QKBExSEdy3P1lW8ZObxd/7bX9D6d1+rGtHZc1pr4is6oXE+ye8spclto58DnUoI2ZiQcBb9iAVD31dhec70z7FEpBLmfOWiPIWE/ClJ+D/siIvnw5G/Ch2SZZGXaeNrKRephj48IA65GjXdLaJ9vSy9liWyyjm+MJF8IGgMfuzIvsfECLF4RtpEYp2E44cdUSo=]]></acast:settings>
+      <acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6Zs8z4+Wx95XDJvKs3vbmvv8L67MZL0XEyyiDjOilZlCMil31L2NUZeqE5gZk8VucnWkWbxRud+3RUtp7bHiaVjHys4QfnqvBgZrlnNoNd+NmsrW/GHXPESNVpEa64NVmAe]]></acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
       <description><![CDATA[<p>Hast du schonmal dran gedacht, wer du eigentlich gern wärst? Wie sieht es aus, wenn man seine eigene Identität findet und sich vielleicht auch einfach mal völlig neu definiert? Darüber sprechen wir in der heutigen Was wenn's klappt Episode mit dir.</p><br><p>Lass uns doch gern eine Antwort auf die Frage: "Wer wärst du eigentlich gern?" in den Kommentaren!</p><br><p>Folgst du uns schon auf YouTube? ➡️ https://youtube.com/@waswennsklappt</p><p>Unsere Website: 🌐 https://waswennsklappt.de</p>]]></description>
@@ -128,12 +128,12 @@
       <itunes:duration>37:49</itunes:duration>
       <enclosure url="https://media.blubrry.com/2994638/chrt.fm/track/C481C3/https://sphinx.acast.com/p/open/s/6504228accb27600118a65b8/e/65d12cc20247150016e27c3c/media.mp3" length="74505388" type="audio/mpeg"/>
       <guid isPermaLink="false">65d12cc20247150016e27c3c</guid>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <link>https://shows.acast.com/was-wenns-klappt/episodes/weniger-social-media-nutzen-im-alltag-das-hilft-uns</link>
       <acast:episodeId>65d12cc20247150016e27c3c</acast:episodeId>
       <acast:showId>6504228accb27600118a65b8</acast:showId>
       <acast:episodeUrl>weniger-social-media-nutzen-im-alltag-das-hilft-uns</acast:episodeUrl>
-      <acast:settings><![CDATA[Mmi9XlfQiyuva10SqTHvHIUYNDO/KB6nkmZKMSEU6KK3jDhzRuOvH6hQddI5ArdP1sWQ/fRoiDIlIcrFvGe0bR9qdOvcIJThSTsxf+Fgdh5a5WC61WBqVvdVkz9POX9gzfX7FkM3gmKyXOF8vNGI18EcrNJgKERlsEEcZy2zBEU9ME5k7N4klmfSLMLvLik+FWXXB2VBEErbcw2DdsTYCgNrePxIkFH/A//9EWTjr5YBnQ8AuYRMNMmHIAPqLtB+lBbDpNFPN6uq2G0g9vQrVptfqxSIHc6PGqoEzMvFuPEIdzsSsPYXVjdx0P6i1/LZQICVP8JB6hNqY8hNY5JOwjpHpRohINZEKwvMHSVNk7uDPcpZjd8v1nKHBQFRuRIoaE5PzpCFL1MZ8FxMlLnl8VpyHkXPYXHa80lRQnsHIUwkdzMgHgTYcR+WL8vFbONPE2T+uJgAFh2+caxtBGYXp+efL9GvRVO2PlB/Il4qX9grP01JvCqX22BlrIqEG51CuWc3oo8gKOv3r690c42CSJt/bMcAv28MX9Uo5qgLu+KgPj3P31YXGZQFuLJV3wgLwokGYt6HISRJxg8L2UwXtKa8MliqZ2Zua4jbbbufFvSszIS/tMAJqkWiF2TKcbshF/wJZkB99nb7iYh29VpjCsSaJ1GUtGk8QtDRJhb5ACJn3lZGlQdtK/JpLYpTtFTLcurQ6vqwL8/L0RgcXVQeyJ++euSkQwdH0J/Rtvdyt5D1TDZGmy8L1a3PC2alPkifk1M8A9Yp2P8XiHgLhz3oqz3EqjEiUZM3V89C5i5ZLWQfMyMkdlYXGxB0tKaz20bdnqOx23/oZAXQ2jhZhyquVFlCbAycYo3s6tf0xWmqYuU=]]></acast:settings>
+      <acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6Zs8z4+Wx95XDJvKs3vbmvv8L67MZL0XEyyiDjOilZlCMinBOEOaLpWybHAq1PhF13/6EyEcU0Aj6F4sQ70vtLjOy0p7jxB7GeLOB7BnrK4m6aU++4TKUKAfNbIfrKYDyDs]]></acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
       <description><![CDATA[<p>Würdest du auch gern weniger Social Media in deinem Alltag nutzen? Vielleicht sogar gar kein Social Media mehr öffnen? Ich denke wir allen kennen es, wenn wir uns immer wieder schlecht fühlen durch unseren social media konsum und uns die frage stellen: Wie höre ich bloß damit auf? </p><p>Wir beschäftigen uns aktuell viel mit einem gesunden Umgang mit Social Media und wie wir unseren Alltag bewusster ohne das Handy gestalten können. Erfahrungen und kleine Tipps dazu teilen wir in der heutigen Podcast Episode mit dir.</p><br><p>Hier geht's zu unserer Website: https://waswennsklappt.de/</p><p>Folgst du uns schon auf YouTube: https://youtube.com/@waswennsklappt</p>]]></description>
@@ -146,12 +146,12 @@
       <itunes:duration>37:23</itunes:duration>
       <enclosure url="https://media.blubrry.com/2994638/chrt.fm/track/C481C3/https://sphinx.acast.com/p/open/s/6504228accb27600118a65b8/e/65c54ebaa1646c0016e0919d/media.mp3" length="89733165" type="audio/mpeg"/>
       <guid isPermaLink="false">65c54ebaa1646c0016e0919d</guid>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <link>https://waswennsklappt.de/</link>
       <acast:episodeId>65c54ebaa1646c0016e0919d</acast:episodeId>
       <acast:showId>6504228accb27600118a65b8</acast:showId>
       <acast:episodeUrl>sinnvoll-in-den-tag-starten-ist-kalt-schwimmen-gehen-die-los</acast:episodeUrl>
-      <acast:settings><![CDATA[Mmi9XlfQiyuva10SqTHvHIUYNDO/KB6nkmZKMSEU6KK3jDhzRuOvH6hQddI5ArdP1sWQ/fRoiDIlIcrFvGe0bR9qdOvcIJThSTsxf+Fgdh5a5WC61WBqVvdVkz9POX9gzfX7FkM3gmKyXOF8vNGI18EcrNJgKERlsEEcZy2zBEU9ME5k7N4klmfSLMLvLik+FWXXB2VBEErbcw2DdsTYCgNrePxIkFH/A//9EWTjr5YBnQ8AuYRMNMmHIAPqLtB+lBbDpNFPN6uq2G0g9vQrVptfqxSIHc6PGqoEzMvFuPEIdzsSsPYXVjdx0P6i1/LZQICVP8JB6hNqY8hNY5JOwjpHpRohINZEKwvMHSVNk7uDPcpZjd8v1nKHBQFRuRIoaE5PzpCFL1MZ8FxMlLnl8VpyHkXPYXHa80lRQnsHIUwkdzMgHgTYcR+WL8vFbONPE2T+uJgAFh2+caxtBGYXp+efL9GvRVO2PlB/Il4qX9h1dZ1jvoHIVPHPGoXM+kYV9BOLI7AWqzumfr7Bi4A2oubMrrGy+nUzNF15i6AL/wuIQx9uFtfY8VpgwR+3N3hHUXZq6X6mloROF+305/3GASTsk44z39bWxEhqVcTz2Yf3Hi+s0MMooeinOb+mEqqI/oeeG+8rGF1E/qDoy5sVFvQDWDL6UwTm5qa++pQE345MRpiA753qgr4j1jmwlyCJo/aFLJRhFJldspdWBUI+dLpjVqxXXFr1x4jBVNcB3IUpRYg124Y5iB0sAnglxciRgpblMoF3Hb203TzWnweLeH+Of5j38gXb2kPIchruwdIbG3OtvxVCPu1LFmL9jC1XwUVpz5lFFE1emMF2Mob2AZ4GOIU+ylwxcYcLhQwT5Is=]]></acast:settings>
+      <acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6Zs8z4+Wx95XDJvKs3vbmvv8L67MZL0XEyyiDjOilZlCMgybCp0v34l6n637Blb53mm+5h5Nls16jm9y5oUxDtNvYbpfHVtSvo/She5H5Og0zNTTim4IQ0dxwfoXVyYfxTf]]></acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
       <description><![CDATA[<p>Wir haben uns vorgenommen, bewusster und sinnvoller in den Tag zu starten und uns dafür eine 7 Tage Challenge gesetzt: Jeden Morgen kalt schwimmen gehen im wilden Atlantik. Wir erhoffen uns dadurch, dass wir besser in den Tag starten und endlich wieder in eine Routine vom früh aufstehen reinfinden. Morgens schwimmen soll ja angeblich sehr gut sein, also warum nicht mal unsere Morgenroutine optimieren und es ausprobieren? Also: Los geht's mit dem kalt schwimmen! </p><br><p>Hier geht's zu unserer Website: https://waswennsklappt.de/</p><p>Zum Podcast auf YouTube: https://youtube.com/@waswennsklappt</p>]]></description>
@@ -164,12 +164,12 @@
       <itunes:duration>53:41</itunes:duration>
       <enclosure url="https://media.blubrry.com/2994638/chrt.fm/track/C481C3/https://sphinx.acast.com/p/open/s/6504228accb27600118a65b8/e/65bc1c009425cd001660dd18/media.mp3" length="51539373" type="audio/mpeg"/>
       <guid isPermaLink="false">65bc1c009425cd001660dd18</guid>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <link>https://waswennsklappt.de/</link>
       <acast:episodeId>65bc1c009425cd001660dd18</acast:episodeId>
       <acast:showId>6504228accb27600118a65b8</acast:showId>
       <acast:episodeUrl>zu-viel-zeit-alleine-einsamkeit-langeweile</acast:episodeUrl>
-      <acast:settings><![CDATA[Mmi9XlfQiyuva10SqTHvHIUYNDO/KB6nkmZKMSEU6KK3jDhzRuOvH6hQddI5ArdP1sWQ/fRoiDIlIcrFvGe0bR9qdOvcIJThSTsxf+Fgdh5a5WC61WBqVvdVkz9POX9gzfX7FkM3gmKyXOF8vNGI18EcrNJgKERlsEEcZy2zBEU9ME5k7N4klmfSLMLvLik+FWXXB2VBEErbcw2DdsTYCgNrePxIkFH/A//9EWTjr5YBnQ8AuYRMNMmHIAPqLtB+lBbDpNFPN6uq2G0g9vQrVptfqxSIHc6PGqoEzMvFuPEIdzsSsPYXVjdx0P6i1/LZQICVP8JB6hNqY8hNY5JOwjpHpRohINZEKwvMHSVNk7uDPcpZjd8v1nKHBQFRuRIoaE5PzpCFL1MZ8FxMlLnl8VpyHkXPYXHa80lRQnsHIUwkdzMgHgTYcR+WL8vFbONPE2T+uJgAFh2+caxtBGYXp+efL9GvRVO2PlB/Il4qX9hTRMOBcS0O25o7uyHRdcRyACtCMN+ZLVvkb9t3nKwatAGPFdGcHUYItjwjMRoJCozjds+nupZEPZRXuqiLmNzlgC+AXdebGPqvQgsfgScbEmnc8kIdOVQDq8kBw52Fsp685vbhE1IfuJbnl1EwILN9E9Gjl7fvk/fw/tkG7sWKMaC4xTQCOHGw60+hMlJczzpXtHzRJVBYGNmK+s9NxwJuhpYp1VZhLBvacUylp/PvnJFxWGJbnjWsasRMb38se2UhQ3ecuQ7Cq1Um9/7TI0EU7rPeuQ4+pApLeMMqsIiYugqlENXxHEA9R/MKF8dF/azo6uE68QhFLRP4NbBJ/WYrGdJxeNsqPNZao5okjEneGnCJAPo3R3CN1sq0/CcD+Ak=]]></acast:settings>
+      <acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6Zs8z4+Wx95XDJvKs3vbmvv8L67MZL0XEyyiDjOilZlCMhWZSSA/DsjvQmXH3TltPg1htwc2wnTyaeF/v4Gpi2kca4hvPasK35CL9MKmIJmffyLVWdjqefwiRXoPYSLfJ4b]]></acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
       <description><![CDATA[<p>In dieser Woche sprechen wir darüber, dass wir alle viel zu viel Zeit alleine verbringen und das zu Einsamkeit und 'ner Menge Langeweile führen kann. Warum haben wir das Gefühl, nichts geschafft zu kriegen obwohl wir eigentlich die Zeit dafür hätten? Ist Reisen die perfekte Flucht aus dieser Situation? Let's talk about it :)</p><br><p><br></p><p>Folgst du uns schon auf YouTube? ➡️ https://youtube.com/@waswennsklappt</p><p>Unsere Website: 🌐 https://waswennsklappt.de</p>]]></description>
@@ -182,12 +182,12 @@
       <itunes:duration>45:04</itunes:duration>
       <enclosure url="https://media.blubrry.com/2994638/chrt.fm/track/C481C3/https://sphinx.acast.com/p/open/s/6504228accb27600118a65b8/e/65aab27e19d0f90017d0a117/media.mp3" length="43276845" type="audio/mpeg"/>
       <guid isPermaLink="false">65aab27e19d0f90017d0a117</guid>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <link>https://waswennsklappt.de/</link>
       <acast:episodeId>65aab27e19d0f90017d0a117</acast:episodeId>
       <acast:showId>6504228accb27600118a65b8</acast:showId>
       <acast:episodeUrl>routinen-einhalten-never-skip-twice</acast:episodeUrl>
-      <acast:settings><![CDATA[Mmi9XlfQiyuva10SqTHvHIUYNDO/KB6nkmZKMSEU6KK3jDhzRuOvH6hQddI5ArdP1sWQ/fRoiDIlIcrFvGe0bR9qdOvcIJThSTsxf+Fgdh5a5WC61WBqVvdVkz9POX9gzfX7FkM3gmKyXOF8vNGI18EcrNJgKERlsEEcZy2zBEU9ME5k7N4klmfSLMLvLik+FWXXB2VBEErbcw2DdsTYCgNrePxIkFH/A//9EWTjr5YBnQ8AuYRMNMmHIAPqLtB+lBbDpNFPN6uq2G0g9vQrVptfqxSIHc6PGqoEzMvFuPEIdzsSsPYXVjdx0P6i1/LZQICVP8JB6hNqY8hNY5JOwjpHpRohINZEKwvMHSVNk7uDPcpZjd8v1nKHBQFRuRIoaE5PzpCFL1MZ8FxMlLnl8VpyHkXPYXHa80lRQnsHIUwkdzMgHgTYcR+WL8vFbONPE2T+uJgAFh2+caxtBGYXp+efL9GvRVO2PlB/Il4qX9gfV0JURvDAjj87OclOMI8sb0FmUYmTu3CVGiKabnUssY1xi6s1/B0BTdb7OVx78ERMyuLNIgY7NT0tBoFR1ro3izr3azGUMFCh5XQkV+nOevla2vRU+XvdLMoZWFxjC7IGRiqT811Nnha0dxQ1zQoICZSLYvAMQxeffYJeW3nV0DyMOpo4DccwHwKbHeDPnj72J1w+cV6FxFcAda4cdcnTNQbkbR6MtVvYXa9v4AI7TtIMOyxEE5cJ+/RDiMvi4ffcDEsEiBUQFe2p+AIB3BNdTGIZacOwVEviihprTcMCXCL8uYOeeTOKKSne86sw8Ve+oUTVZvvB6hEvujvqvkDtSUWIbwY9wtAmmmjPpuv+10Am8yRAceEdTDTXu3ZlKb4=]]></acast:settings>
+      <acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6Zs8z4+Wx95XDJvKs3vbmvv8L67MZL0XEyyiDjOilZlCMi0Nt42rPcu3b7pfb3kif0Eaj8eBxo2MYMvY5kcyxK6toeBpYitHsrdH9zDoJr0UvMZDF/xUoFkKzP5brMNxOXo]]></acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
       <description><![CDATA[<p>Hast du Routinen die dich im Alltag begleiten und dir helfen eine Struktur in deinen Tag zu bringen?</p><p>Wir haben festgestellt: Never skip twice! Dann wird aus der hart aufgebauten Routine ganz schnell eine Routine des Nichts tuns....</p><p>Warum wir immer wieder versuchen eine feste Komponente in den Tag zu bauen erfährst du in unserer Podcast Episode.</p><br><p><br></p><p>Folgst du uns schon auf YouTube? ➡️ https://youtube.com/@waswennsklappt</p><p>Unsere Website: 🌐 https://waswennsklappt.de</p>]]></description>
@@ -200,12 +200,12 @@
       <itunes:duration>1:08:18</itunes:duration>
       <enclosure url="https://media.blubrry.com/2994638/chrt.fm/track/C481C3/https://sphinx.acast.com/p/open/s/6504228accb27600118a65b8/e/65a3ad30a005d7001633445d/media.mp3" length="65579181" type="audio/mpeg"/>
       <guid isPermaLink="false">65a3ad30a005d7001633445d</guid>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <link>https://waswennsklappt.de</link>
       <acast:episodeId>65a3ad30a005d7001633445d</acast:episodeId>
       <acast:showId>6504228accb27600118a65b8</acast:showId>
       <acast:episodeUrl>die-selbststandigkeit-und-das-geld</acast:episodeUrl>
-      <acast:settings><![CDATA[Mmi9XlfQiyuva10SqTHvHIUYNDO/KB6nkmZKMSEU6KK3jDhzRuOvH6hQddI5ArdP1sWQ/fRoiDIlIcrFvGe0bR9qdOvcIJThSTsxf+Fgdh5a5WC61WBqVvdVkz9POX9gzfX7FkM3gmKyXOF8vNGI18EcrNJgKERlsEEcZy2zBEU9ME5k7N4klmfSLMLvLik+FWXXB2VBEErbcw2DdsTYCgNrePxIkFH/A//9EWTjr5YBnQ8AuYRMNMmHIAPqLtB+lBbDpNFPN6uq2G0g9vQrVptfqxSIHc6PGqoEzMvFuPEIdzsSsPYXVjdx0P6i1/LZQICVP8JB6hNqY8hNY5JOwjpHpRohINZEKwvMHSVNk7uDPcpZjd8v1nKHBQFRuRIoaE5PzpCFL1MZ8FxMlLnl8VpyHkXPYXHa80lRQnsHIUwkdzMgHgTYcR+WL8vFbONPE2T+uJgAFh2+caxtBGYXp+efL9GvRVO2PlB/Il4qX9gXDFYuFRfW74yJxtuZPAa1HjsgvZM6dOV6KEqR+tDt6OR4YRV0g614964fiYTJ7fDoiC62emd1hs2Osg4nPIMqo/UX1q0Gw5zGo/GzbfQeaVbhN9pUY0oVOfL7QoXx/meqlsuNIPWoUWxguCPyfUhCh9qP3OEl/7YP5C00aO022wiQXGEzhPJjQoSkxh74N0sBu59tQUiaYvyJAuE9XI0RgD59V3qgMilUfHyiIOYMGsvLCm5lRx0Rj/q5R+mJoIlrYI96JXxAyaPBLZRIeQYOyGn7DhS4vSaPNLze83Jci1FpvHyAUSZe7aPjc0l2OVNcFPACBVHOpX/RATChOmYjKsWfB9h8nDCGLSbpNKzRc/uE7z41u2WQwr9qwI424lo=]]></acast:settings>
+      <acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6Zs8z4+Wx95XDJvKs3vbmvv8L67MZL0XEyyiDjOilZlCMhAzeuPo7GyVxOFZL8poCTeijp8A7HvpdrXOlOeVwHRcsEOnnOTpR9wBEWFqaRGr/K7XUOdNb1Oij7ntwNmpiQZ]]></acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
       <description><![CDATA[<p>Wer sich selbstständig macht, hat oft eine große Sorge: Das GELD! Da uns zu diesem Thema bereits ein paar Fragen erreicht haben, sprechen wir in dieser Folge über unsere Finanzen. Marco und ich sind beide selbstständig, ich seit ein paar Jahren, Marco noch recht frisch dabei. Wie läuft das ab als Freelancer? Wie verdienen wir als Selbstständige unser Geld? Ein paar Infos und weiteres Geschwafel gibt's heut :)</p><br><p><br></p><p>Folgst du uns schon auf YouTube? ➡️ https://youtube.com/@waswennsklappt</p><p>Unsere Website: 🌐 https://waswennsklappt.de</p>]]></description>
@@ -218,12 +218,12 @@
       <itunes:duration>1:20:07</itunes:duration>
       <enclosure url="https://media.blubrry.com/2994638/chrt.fm/track/C481C3/https://sphinx.acast.com/p/open/s/6504228accb27600118a65b8/e/659a9474af435e001755d366/media.mp3" length="76924461" type="audio/mpeg"/>
       <guid isPermaLink="false">659a9474af435e001755d366</guid>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <link>https://waswennsklappt.de/</link>
       <acast:episodeId>659a9474af435e001755d366</acast:episodeId>
       <acast:showId>6504228accb27600118a65b8</acast:showId>
       <acast:episodeUrl>das-ende-der-weltreise-was-jetzt</acast:episodeUrl>
-      <acast:settings><![CDATA[Mmi9XlfQiyuva10SqTHvHIUYNDO/KB6nkmZKMSEU6KK3jDhzRuOvH6hQddI5ArdP1sWQ/fRoiDIlIcrFvGe0bR9qdOvcIJThSTsxf+Fgdh5a5WC61WBqVvdVkz9POX9gzfX7FkM3gmKyXOF8vNGI18EcrNJgKERlsEEcZy2zBEU9ME5k7N4klmfSLMLvLik+FWXXB2VBEErbcw2DdsTYCgNrePxIkFH/A//9EWTjr5YBnQ8AuYRMNMmHIAPqLtB+lBbDpNFPN6uq2G0g9vQrVptfqxSIHc6PGqoEzMvFuPEIdzsSsPYXVjdx0P6i1/LZQICVP8JB6hNqY8hNY5JOwjpHpRohINZEKwvMHSVNk7uDPcpZjd8v1nKHBQFRuRIoaE5PzpCFL1MZ8FxMlLnl8VpyHkXPYXHa80lRQnsHIUwkdzMgHgTYcR+WL8vFbONPE2T+uJgAFh2+caxtBGYXp+efL9GvRVO2PlB/Il4qX9g4lMZwWAAmAZ1gpR9AIJh0t4vuuGhTctBj13y6h4SII9n67pioXJ3hNjOrkdy/M+MlLom5PofJg0LFwks9oaNnwExvxRuW49HNhmcsLE8QjaU5GEpRdAQsag6TmEiP6QWHzKOgpB6HnpwMq5e9tglTPjh7KN7/0p39oi13uzrZ8wzqZmxlxzpxfoxJpjMr4J3qCQte23hprGJo/pHYkFHJQpR3l0L4uC3UhfR9jwgGwZciZzmvXvUzwQyelGDj0A1Yqn0YL4kSlB9kGn2xvJKyDJ/S7yheeHOERqMtYuW9K1OTohu1glxKWGpZFwGKLVK3p+73U3+SJ4PUxBr0U9k7UWEim9bJoIkIuBxTtxjscdf/2P5H2mNupzIxJ0FqfFs=]]></acast:settings>
+      <acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6Zs8z4+Wx95XDJvKs3vbmvv8L67MZL0XEyyiDjOilZlCMip0laqCv2e7BZPk+rIVmIgPrBPCVjCBlag/3YqabVfl+cfzLUoAvwUTZt4cX+Y+Ioy/2x2EW3sB5tMEMNLHQR3]]></acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
       <description><![CDATA[<p>2023 haben wir mit einer Weltreise gestartet und waren einige Monate unterwegs. Nach einem kurzen Deutschland Zwischenstopp, überlegen wir ob und wann wir wieder zurückkommen.</p><p>Sei dabei wie wir unsere Gedanken dazu teilen und ein kleines Resume der gesamten Zeit ziehen.</p><br><p>Folgst du uns schon auf Instagram? ➡️ https://instagram.com/waswennsklappt</p><p>Folgst du uns schon auf YouTube? ➡️ https://youtube.com/@waswennsklappt</p><p>Unsere Website: 🌐 https://waswennsklappt.de</p>]]></description>
@@ -236,12 +236,12 @@
       <itunes:duration>1:11:52</itunes:duration>
       <enclosure url="https://media.blubrry.com/2994638/chrt.fm/track/C481C3/https://sphinx.acast.com/p/open/s/6504228accb27600118a65b8/e/6571cb9694cd7e001222b1d2/media.mp3" length="140707773" type="audio/mpeg"/>
       <guid isPermaLink="false">6571cb9694cd7e001222b1d2</guid>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <link>https://waswennsklappt.de/</link>
       <acast:episodeId>6571cb9694cd7e001222b1d2</acast:episodeId>
       <acast:showId>6504228accb27600118a65b8</acast:showId>
       <acast:episodeUrl>verbindlichkeiten-schaffen-stop-making-excuses</acast:episodeUrl>
-      <acast:settings><![CDATA[Mmi9XlfQiyuva10SqTHvHIUYNDO/KB6nkmZKMSEU6KK3jDhzRuOvH6hQddI5ArdP1sWQ/fRoiDIlIcrFvGe0bR9qdOvcIJThSTsxf+Fgdh5a5WC61WBqVvdVkz9POX9gzfX7FkM3gmKyXOF8vNGI18EcrNJgKERlsEEcZy2zBEU9ME5k7N4klmfSLMLvLik+FWXXB2VBEErbcw2DdsTYCgNrePxIkFH/A//9EWTjr5YBnQ8AuYRMNMmHIAPqLtB+lBbDpNFPN6uq2G0g9vQrVptfqxSIHc6PGqoEzMvFuPEIdzsSsPYXVjdx0P6i1/LZQICVP8JB6hNqY8hNY5JOwjpHpRohINZEKwvMHSVNk7uDPcpZjd8v1nKHBQFRuRIoaE5PzpCFL1MZ8FxMlLnl8VpyHkXPYXHa80lRQnsHIUwkdzMgHgTYcR+WL8vFbONPE2T+uJgAFh2+caxtBGYXp+efL9GvRVO2PlB/Il4qX9jDZNC9vSRKztL/YbBjugzL6X51yuHytRhTXidlH6x4RV7MAUVqIVg7VWG/JXowiSR1+l6o8XPyXGsIPvPmqhdlWdHCA6MdzPGaU5OF10wJ98CwzflYIXfLbBLgyajwlaBY15SHBRO92Pvx3KKoeBLL54p6FmdX3509+2KDzeacK0ekfo3kQfjlEPXGslqSZfCua1GWaYVdzt7mRxnsSDzw45tzAQi5TSyDqaNfUySkosEZ89EuVJoAXa1sXQ8BXtY3yhr2NCCec+FBV3pGvIJSzfgpG/BPbd4lJTzXKBujav27JrjFY7uUX0MEFtz4l7ssgfSp/bkgEIoLIczqXHwVPmWsQ8a9jT+9C6UyBcLiFouiz88A+2EUNOypjnXMg6U=]]></acast:settings>
+      <acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6Zs8z4+Wx95XDJvKs3vbmvv8L67MZL0XEyyiDjOilZlCMj26ezCxFFE06qIY71tPcGJkvNyaY1q7PjBDUA2EjDWoyHL1mVK5ZbUj5kWja4CuTYUaQLSjNKJHrY3laFH6cDz]]></acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
       <description><![CDATA[<p>Hör auf auf eine Ausrede zu suchen.</p><p>In dieser Folge sprechen wir über Verbindlichkeiten, wie sie eine Struktur bringen und deinen Alltag erleichtern können.</p><br><p>Folgst du uns schon auf Instagram? ➡️<a href="https://instagram.com/waswennsklappt" rel="noopener noreferrer" target="_blank"> https://instagram.com/waswennsklappt</a></p><p>Folgst du uns schon auf YouTube? ➡️ <a href="https://youtube.com/@waswennsklappt" rel="noopener noreferrer" target="_blank">https://youtube.com/@waswennsklappt</a></p><p>Unsere Website: 🌐 <a href="https://waswennsklappt.de/" rel="noopener noreferrer" target="_blank">https://waswennsklappt.de</a></p>]]></description>
@@ -254,12 +254,12 @@
       <itunes:duration>48:29</itunes:duration>
       <enclosure url="https://media.blubrry.com/2994638/chrt.fm/track/C481C3/https://sphinx.acast.com/p/open/s/6504228accb27600118a65b8/e/656267d43902ec0012e0e04c/media.mp3" length="95413286" type="audio/mpeg"/>
       <guid isPermaLink="false">656267d43902ec0012e0e04c</guid>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <link>https://waswennsklappt.de/</link>
       <acast:episodeId>656267d43902ec0012e0e04c</acast:episodeId>
       <acast:showId>6504228accb27600118a65b8</acast:showId>
       <acast:episodeUrl>ein-neuanfang-in-portugal</acast:episodeUrl>
-      <acast:settings><![CDATA[Mmi9XlfQiyuva10SqTHvHIUYNDO/KB6nkmZKMSEU6KK3jDhzRuOvH6hQddI5ArdP1sWQ/fRoiDIlIcrFvGe0bR9qdOvcIJThSTsxf+Fgdh5a5WC61WBqVvdVkz9POX9gzfX7FkM3gmKyXOF8vNGI18EcrNJgKERlsEEcZy2zBEU9ME5k7N4klmfSLMLvLik+FWXXB2VBEErbcw2DdsTYCgNrePxIkFH/A//9EWTjr5YBnQ8AuYRMNMmHIAPqLtB+lBbDpNFPN6uq2G0g9vQrVptfqxSIHc6PGqoEzMvFuPEIdzsSsPYXVjdx0P6i1/LZQICVP8JB6hNqY8hNY5JOwjpHpRohINZEKwvMHSVNk7uDPcpZjd8v1nKHBQFRuRIoaE5PzpCFL1MZ8FxMlLnl8VpyHkXPYXHa80lRQnsHIUwkdzMgHgTYcR+WL8vFbONPE2T+uJgAFh2+caxtBGYXp+efL9GvRVO2PlB/Il4qX9hnFb7HlnBttPaSUhnR5OI2qZteyt0oqY6AGpLOqqlWkbwS9bWERxMokbo18oKVSf8ybe8I8gcElev+tLrftNPhd+vWvGIVnobtQkrBPK8meFZm64neBvl4CcSNqtkLlCn3LCzwNU/ClrP6ZJDOe8L6HYIrc77o7LTdFwXLrNfT8WXnATKsGlGaPyVvtkzoWtZ/W2UIUSxTSL3oaHZx81TiOEfWmvtnhfiIQUdHRssascb7iGo6GMrtV9RMpjf7fPFF+YMImi8ZkX8bidh9jbo+t8HXEXjsj2e77vrBOtzrsMF8pm4YaSGGptJmqY/LHURApZl+LYTnTTcQjWQnso9cCIJFsagPS633Gl3QyaV22wobpBnKIaS6mROqmqQ0NmY=]]></acast:settings>
+      <acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6Zs8z4+Wx95XDJvKs3vbmvv8L67MZL0XEyyiDjOilZlCMjmYab8FDXhGvktcq3bprkQPpyWfPU+7FWR+9iqdtz7pA5EbDFqVnLdzq64c0fjpChYyWsrKwPKvejXgbRMNA5m]]></acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
       <description><![CDATA[<p>Wir haben Urlaub gemacht und einfach mal abgeschaltet! Wie gut das tut.</p><p>Als nächste Destination steht bei uns Portugal auf dem Plan, aber hier geht alles wieder von vorne los, ein Neuanfang?</p><p>So richtig kommen wir noch nicht in unseren Rhythmus... aber vielleicht hilft der Podcast wieder eine regelmäßige Komponente in unser Leben zu bringen.</p><br><p>Folgst du uns schon auf Instagram? ➡️<a href="https://instagram.com/waswennsklappt" rel="noopener noreferrer" target="_blank"> https://instagram.com/waswennsklappt</a></p><p>Folgst du uns schon auf YouTube? ➡️ <a href="https://youtube.com/@waswennsklappt" rel="noopener noreferrer" target="_blank">https://youtube.com/@waswennsklappt</a></p><p>Unsere Website: 🌐 <a href="https://waswennsklappt.de/" rel="noopener noreferrer" target="_blank">https://waswennsklappt.de</a></p>]]></description>
@@ -272,12 +272,12 @@
       <itunes:duration>52:03</itunes:duration>
       <enclosure url="https://media.blubrry.com/2994638/chrt.fm/track/C481C3/https://sphinx.acast.com/p/open/s/6504228accb27600118a65b8/e/6531bf2885ddc600121fd823/media.mp3" length="102632947" type="audio/mpeg"/>
       <guid isPermaLink="false">6531bf2885ddc600121fd823</guid>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <link>https://waswennsklappt.de/</link>
       <acast:episodeId>6531bf2885ddc600121fd823</acast:episodeId>
       <acast:showId>6504228accb27600118a65b8</acast:showId>
       <acast:episodeUrl>wir-haben-alle-viel-zu-viel-stress</acast:episodeUrl>
-      <acast:settings><![CDATA[Mmi9XlfQiyuva10SqTHvHIUYNDO/KB6nkmZKMSEU6KK3jDhzRuOvH6hQddI5ArdP1sWQ/fRoiDIlIcrFvGe0bR9qdOvcIJThSTsxf+Fgdh5a5WC61WBqVvdVkz9POX9gzfX7FkM3gmKyXOF8vNGI18EcrNJgKERlsEEcZy2zBEU9ME5k7N4klmfSLMLvLik+FWXXB2VBEErbcw2DdsTYCgNrePxIkFH/A//9EWTjr5YBnQ8AuYRMNMmHIAPqLtB+lBbDpNFPN6uq2G0g9vQrVptfqxSIHc6PGqoEzMvFuPEIdzsSsPYXVjdx0P6i1/LZQICVP8JB6hNqY8hNY5JOwjpHpRohINZEKwvMHSVNk7uDPcpZjd8v1nKHBQFRuRIoaE5PzpCFL1MZ8FxMlLnl8VpyHkXPYXHa80lRQnsHIUwkdzMgHgTYcR+WL8vFbONPE2T+uJgAFh2+caxtBGYXp+efL9GvRVO2PlB/Il4qX9jl2KyO+DvheHOQATSK5z8bUz+Mi/cKsbj3FDAt7gL14X83u1jbZjWZXt3r5X0c+464JixSUcvJuCvNnUrM13Lacdl1ZdI4z+cs19hp8JG2mnxC5xS8nqgEa28r21oWaYyYXTcZeLQXwHPswmzA03qvX/djxZxpGgZGe9irz31ThzinQpC5pmWGDQ6Kp11wk3DroAyAZt9aoBSoOB75XJy8jcDqTAHism2lKI0/zVYEbuNhTJ6gmQxpaniqr8kaIog99tB1TB0kaQUOrKw/M8e6W0P14hzqxwHmZsq7CYzRuuQPBG1P9FsheltuGrM2gqG2+6OdT8vGDJPmijfpcf3CMN+HNRhrpfmhgsGAveY0+vaNSue7Cx/tnPT0GYlI+Es=]]></acast:settings>
+      <acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6Zs8z4+Wx95XDJvKs3vbmvv8L67MZL0XEyyiDjOilZlCMjGNoZxkdAyIqyb1+RI69EwbkcNADK8+MlKkzuKNMYLw3MqHq4rBSfmoo0xpcgtW+cBxpcxegg6iR0QING06VBX]]></acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
       <description><![CDATA[<p>SOS Burnout Gefahr! Isi hat in der letzten Woche erkannt, dass ihre aktuelle Arbeitsweise nicht gerade gesund ist. Stress erkennen = Schritt 1. Stress managen = Schritt 2. In der heutigen Podcast Folge von Was wenn's klappt? reden wir daher mal sehr ausführlich über das Thema Stressmanagement und klären warum wir alle eigentlich ständig zu viel zu tun haben. </p><br><p>Buchtipp: Notes on a nervous planet: <a href="https://amzn.to/3M5oBRS" rel="noopener noreferrer" target="_blank">https://amzn.to/3M5oBRS</a> * </p><p>* Affiliate Link</p><br><p>Folgst du uns schon auf Instagram? ➡️<a href=" https://instagram.com/waswennsklappt" rel="noopener noreferrer" target="_blank"> https://instagram.com/waswennsklappt</a></p><p>Folgst du uns schon auf YouTube? ➡️ <a href="https://youtube.com/@waswennsklappt" rel="noopener noreferrer" target="_blank">https://youtube.com/@waswennsklappt</a></p><p>Unsere Website: 🌐 <a href="https://waswennsklappt.de" rel="noopener noreferrer" target="_blank">https://waswennsklappt.de</a></p>]]></description>
@@ -290,12 +290,12 @@
       <itunes:duration>42:16</itunes:duration>
       <enclosure url="https://media.blubrry.com/2994638/chrt.fm/track/C481C3/https://sphinx.acast.com/p/open/s/6504228accb27600118a65b8/e/652b3e04bb4a4d0012e96311/media.mp3" length="83480499" type="audio/mpeg"/>
       <guid isPermaLink="false">652b3e04bb4a4d0012e96311</guid>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <link>https://waswennsklappt.de/podcast/episode/mehr-spass-im-alltag-ein-neues-hobby-starten/</link>
       <acast:episodeId>652b3e04bb4a4d0012e96311</acast:episodeId>
       <acast:showId>6504228accb27600118a65b8</acast:showId>
       <acast:episodeUrl>mehr-spass-im-alltag-ein-neues-hobby-starten</acast:episodeUrl>
-      <acast:settings><![CDATA[Mmi9XlfQiyuva10SqTHvHIUYNDO/KB6nkmZKMSEU6KK3jDhzRuOvH6hQddI5ArdP1sWQ/fRoiDIlIcrFvGe0bR9qdOvcIJThSTsxf+Fgdh5a5WC61WBqVvdVkz9POX9gzfX7FkM3gmKyXOF8vNGI18EcrNJgKERlsEEcZy2zBEU9ME5k7N4klmfSLMLvLik+FWXXB2VBEErbcw2DdsTYCgNrePxIkFH/A//9EWTjr5YBnQ8AuYRMNMmHIAPqLtB+lBbDpNFPN6uq2G0g9vQrVptfqxSIHc6PGqoEzMvFuPEIdzsSsPYXVjdx0P6i1/LZQICVP8JB6hNqY8hNY5JOwjpHpRohINZEKwvMHSVNk7uDPcpZjd8v1nKHBQFRuRIoaE5PzpCFL1MZ8FxMlLnl8VpyHkXPYXHa80lRQnsHIUwkdzMgHgTYcR+WL8vFbONPxhRosHjXvaS59LURsAOjOVmzyIHT92r7XCyf/y7omFZEhGDi9Lxn6yFoW62+tIGGGHhb2hqxNz13m4jWufWA5N86ih9FYpXVh4n89RuGAeIS9/wSK7aHvoRLjgun4u5GuMIzr/moSaSvQphrT++HKs0KggJyecKBYwsjE0P1JgCmOWOJcdtvKCJZe9tHBPYxhRXRviZTMrs+0ERtDbw+Ho7me9rXhYHK0rhz6sIapHeakMTv/XG0u/1X2Xyu163H6Xzfy96rMeH6EIhELmv75f0oBuUjxCBovCToAEkG95ycjjnsl2RSRnyrFLmhC9dskn2lzRYQhzcHLJ3hEiWoK6J1gRD+jtfhW8vPslAp6afHvItteRIf/xrQGTnDNbAFa6//F38d2LjUYAREK+0jYw==]]></acast:settings>
+      <acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsoxhINu4Ad7VkAnsB5MGv7e3Dt0Ifua5XKtQXwm8wEDE9N5Ds6BVpwXQPmp4lcrJnNE6chYdJJsAEVz4OB/rCh/5bFyvN/vSYURcL8bPf7K4=]]></acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
       <description><![CDATA[<p>Mehr Spaß im Alltag: ein neues Hobby starten!</p><br><p>Kennst du das? Manchmal kommt dir der Alltag tag ein, tag aus einfach ein bisschen langweilig vor. Wie könntest du bloß mal wieder ein wenig mehr Spaß im Alltag haben? Wir sprechen in dieser Folge unter anderem über das Starten von neuen Hobbies! Isi hat nämlich vor kurzem mit dem Skaten angefangen und Marco hat seine alte Skate Leidenschaft aus der Jugend daraufhin direkt wieder mit entfacht. Also wann startest du mal wieder ein neues Hobby, um deinen Alltag mit einem neuen Schub an Aufregung zu verschönern?</p><br><p>Folgst du uns schon auf Instagram? ➡️ <a href="https://instagram.com/waswennsklappt" rel="noopener noreferrer" target="_blank">https://instagram.com/waswennsklappt</a></p><p>Folgst du uns schon auf YouTube? ➡️ <a href="https://youtube.com/@waswennsklappt" rel="noopener noreferrer" target="_blank">https://youtube.com/@waswennsklappt</a></p><p>Unsere Website: 🌐 <a href="https://waswennsklappt.de/" rel="noopener noreferrer" target="_blank">https://waswennsklappt.de</a></p>]]></description>
@@ -308,12 +308,12 @@
       <itunes:duration>35:18</itunes:duration>
       <enclosure url="https://media.blubrry.com/2994638/chrt.fm/track/C481C3/https://sphinx.acast.com/p/open/s/6504228accb27600118a65b8/e/651e2293de8b67001164a78a/media.mp3" length="69794677" type="audio/mpeg"/>
       <guid isPermaLink="false">651e2293de8b67001164a78a</guid>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <link>https://waswennsklappt.de/podcast/episode/mehr-soziale-kontakte-im-alltag-nur-wie/</link>
       <acast:episodeId>651e2293de8b67001164a78a</acast:episodeId>
       <acast:showId>6504228accb27600118a65b8</acast:showId>
       <acast:episodeUrl>episode-4-tbd</acast:episodeUrl>
-      <acast:settings><![CDATA[Mmi9XlfQiyuva10SqTHvHIUYNDO/KB6nkmZKMSEU6KK3jDhzRuOvH6hQddI5ArdP1sWQ/fRoiDIlIcrFvGe0bR9qdOvcIJThSTsxf+Fgdh5a5WC61WBqVvdVkz9POX9gzfX7FkM3gmKyXOF8vNGI18EcrNJgKERlsEEcZy2zBEU9ME5k7N4klmfSLMLvLik+FWXXB2VBEErbcw2DdsTYCgNrePxIkFH/A//9EWTjr5YBnQ8AuYRMNMmHIAPqLtB+lBbDpNFPN6uq2G0g9vQrVptfqxSIHc6PGqoEzMvFuPEIdzsSsPYXVjdx0P6i1/LZQICVP8JB6hNqY8hNY5JOwjpHpRohINZEKwvMHSVNk7uDPcpZjd8v1nKHBQFRuRIoaE5PzpCFL1MZ8FxMlLnl8VpyHkXPYXHa80lRQnsHIUwkdzMgHgTYcR+WL8vFbONPxhRosHjXvaS59LURsAOjOfw4US41KMos/VNlRf9p9UdtJegBL3AqwcUe6AuE3DXLx+9nJePnioFPEApgt5Rd/XGq4aUFw857aXRk4wLDURY/Im+mETRz1OE2n9OacItwV+gBvn7tsMuA+Gc2miuaD1qrvd6NNrPJn5NNj71wbBYQnOuFuAJhK3FszOAkhvPY7q74MXLpKjbMwTFmAwUh7wdurOk72sx63FSmMv6B3lQPMXIGFRbJCsVMJGqt9dDKFt/371N3jBTCihUOXAwpegx4vm3fP1mJGVdpw7RG0NmAKt4UF/gROzmyZnj5EkV3VC3TexrZdOdjwD0uzhleaA9htIsdrGpAqeH8XW6oxgsBCa8xLk55puEQ6GIDJ8FEguhD7Jbuql5O0qcIgRVO9g==]]></acast:settings>
+      <acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsoxhINu4Ad7VkAnsB5MGv7X1a2fm/WdFWfNKtP8hLWc6FNei3jwrlDaayyLXpaI3vOt8A8mq5ZrDAc1IpznSmZzK4+8dsCf+Yh4ppIuTdru0=]]></acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
       <description><![CDATA[<p>Wir merken immer wieder: Wir brauchen wieder mehr soziale Kontakte im Alltag! In dieser Podcast Folge sprechen wir über die Frage ob wir alle zu viel allein sind und wie wir es schaffen im Alltag wieder mehr unter Menschen zu sein. Wir wollen eine Zukunft unter Freunden, einen Alltag in Gemeinschaft, wo wir mehr zusammen machen und uns nicht nur alle 5 Wochen mal nach einem stressigen Arbeitstag für eine Stunde sehen. Vielleicht sollten wir als Lösung einfach eine große Land WG gründen? 😄</p><br><p>Folgst du uns schon auf Instagram? ➡️ <a href="https://instagram.com/waswennsklappt" rel="noopener noreferrer" target="_blank">https://instagram.com/waswennsklappt</a></p><p>Folgst du uns schon auf YouTube? ➡️ <a href="https://youtube.com/@waswennsklappt" rel="noopener noreferrer" target="_blank">https://youtube.com/@waswennsklappt</a></p><p>Unsere Website: 🌐 <a href="https://waswennsklappt.de/" rel="noopener noreferrer" target="_blank">https://waswennsklappt.de</a></p>]]></description>
@@ -326,12 +326,12 @@
       <itunes:duration>32:48</itunes:duration>
       <enclosure url="https://media.blubrry.com/2994638/chrt.fm/track/C481C3/https://sphinx.acast.com/p/open/s/6504228accb27600118a65b8/e/650e7478e663d90011bcefff/media.mp3" length="64670504" type="audio/mpeg"/>
       <guid isPermaLink="false">650e7478e663d90011bcefff</guid>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <link>https://waswennsklappt.de/podcast/episode/wo-ein-wille-da-ein-weg/</link>
       <acast:episodeId>650e7478e663d90011bcefff</acast:episodeId>
       <acast:showId>6504228accb27600118a65b8</acast:showId>
       <acast:episodeUrl>wo-ein-wille-da-ein-weg</acast:episodeUrl>
-      <acast:settings><![CDATA[Mmi9XlfQiyuva10SqTHvHIUYNDO/KB6nkmZKMSEU6KK3jDhzRuOvH6hQddI5ArdP1sWQ/fRoiDIlIcrFvGe0bR9qdOvcIJThSTsxf+Fgdh5a5WC61WBqVvdVkz9POX9gzfX7FkM3gmKyXOF8vNGI18EcrNJgKERlsEEcZy2zBEU9ME5k7N4klmfSLMLvLik+FWXXB2VBEErbcw2DdsTYCgNrePxIkFH/A//9EWTjr5YBnQ8AuYRMNMmHIAPqLtB+lBbDpNFPN6uq2G0g9vQrVptfqxSIHc6PGqoEzMvFuPEIdzsSsPYXVjdx0P6i1/LZQICVP8JB6hNqY8hNY5JOwjpHpRohINZEKwvMHSVNk7uDPcpZjd8v1nKHBQFRuRIoaE5PzpCFL1MZ8FxMlLnl8VpyHkXPYXHa80lRQnsHIUwkdzMgHgTYcR+WL8vFbONPxhRosHjXvaS59LURsAOjOa8iTWZC5PC6TixfbOYzzCHqvMBTUVaPIrR9TMe+BnfQuyYDARb6OgxC7C46Ao6iTgTJ+a7zrwkOssMNWZ+XnQrseAOFEcuakMukEDFqg4tABYhptxhLoI1X+bNXgtEVKsc9YWWYM8kKzgS75VUYUlq6VH3IGc89JhX8OK33lIRup1poR/pFFTyX+uFQNH4g1Wbpg8YBX9DVvMxr4iXuebscqigPPn46JxpBNN8hT5OazygdMorzfAg3Dp4NObSU9aFqIVlP/3prF56G2oM2I9I/NFy3FEZYkRzdPpCAjF2wS5fIB74dCXVJ0HgQTg5mgkylZIcn982yzG9gZvRxQQvI5pXauIKrwX7ULvxuHJ9/bw+pub6VOEF6doGLWjUH8g==]]></acast:settings>
+      <acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsoxhINu4Ad7VkAnsB5MGv7VsqfQdFVkfmGE3OwLVqeVjG4F1E3tQDXRYBOgYoU58nXZ2xAv9eZ2nFblBaHXtxX5kvyLIRHhI43QoiO70I0Z0=]]></acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
       <description><![CDATA[<p>Schonmal drüber nachgedacht, was Ängste mit dir machen? Dass dein Umgang mit Angst eine Gewohnheit ist, die du umtrainieren kannst? In dieser Was wenn's klappt Podcast Folge sprechen wir u.a über unseren Umgang mit Ängsten, über inspirierende Menschen, die uns hier in Neuseeland begegnet sind und über das Hinterfragen von gesellschaftlichen Standards!</p><br><p>Folgst du uns schon auf Instagram? ➡️ <a href="https://instagram.com/waswennsklappt" rel="noopener noreferrer" target="_blank">https://instagram.com/waswennsklappt</a></p><p>Folgst du uns schon auf YouTube? ➡️ <a href="https://youtube.com/@waswennsklappt" rel="noopener noreferrer" target="_blank">https://youtube.com/@waswennsklappt</a></p><p>Unsere Website: 🌐 <a href="https://waswennsklappt.de/" rel="noopener noreferrer" target="_blank">https://waswennsklappt.de</a></p>]]></description>
@@ -344,12 +344,12 @@
       <itunes:duration>34:22</itunes:duration>
       <enclosure url="https://media.blubrry.com/2994638/chrt.fm/track/C481C3/https://sphinx.acast.com/p/open/s/6504228accb27600118a65b8/e/650e2fb25514040011c091fd/media.mp3" length="67758239" type="audio/mpeg"/>
       <guid isPermaLink="false">650e2fb25514040011c091fd</guid>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <link>https://waswennsklappt.de/podcast/episode/lass-mal-mehr-im-moment-leben/</link>
       <acast:episodeId>650e2fb25514040011c091fd</acast:episodeId>
       <acast:showId>6504228accb27600118a65b8</acast:showId>
       <acast:episodeUrl>lass-mal-mehr-im-moment-leben</acast:episodeUrl>
-      <acast:settings><![CDATA[Mmi9XlfQiyuva10SqTHvHIUYNDO/KB6nkmZKMSEU6KK3jDhzRuOvH6hQddI5ArdP1sWQ/fRoiDIlIcrFvGe0bR9qdOvcIJThSTsxf+Fgdh5a5WC61WBqVvdVkz9POX9gzfX7FkM3gmKyXOF8vNGI18EcrNJgKERlsEEcZy2zBEU9ME5k7N4klmfSLMLvLik+FWXXB2VBEErbcw2DdsTYCgNrePxIkFH/A//9EWTjr5YBnQ8AuYRMNMmHIAPqLtB+lBbDpNFPN6uq2G0g9vQrVptfqxSIHc6PGqoEzMvFuPEIdzsSsPYXVjdx0P6i1/LZQICVP8JB6hNqY8hNY5JOwjpHpRohINZEKwvMHSVNk7uDPcpZjd8v1nKHBQFRuRIoaE5PzpCFL1MZ8FxMlLnl8VpyHkXPYXHa80lRQnsHIUwkdzMgHgTYcR+WL8vFbONPxhRosHjXvaS59LURsAOjOV50pad3Bej+MFOb1jGneDmfBSBCIasnRiv7ewjxEq4Wq55pNRPh25h1gCLaS/zsPSpRtc1YDdb4aIlwhjgUCqyfTdlRfkHpw4dM9wSynl3Q8ld/+uKWygF0fGwVxi8rVhfNS4ObJH3fGKBvhM0TsyLFDTJhvlH/0eRXhbNedxsLMVyuIv4LyGzHET+sSeNcJCgCUB0OIOyig2LSzCQE0q3OzVLQabuTMgjkAMVNf78EC85ZUHnJ3x8uhXyOBSJzGr/jfhjHY8VB4NzI/wycsNMJT8Xqx1+Owy1mOgh+fAgPgESJJC+Ucya9EmfAou3wEkMJV7y9TOUqXj6G1Roih6qei5bOC3T5sL6Bn1MheE0OJAfocHokySZhIqEpzFUWjg==]]></acast:settings>
+      <acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsoxhINu4Ad7VkAnsB5MGv7VRjHXDVKIwg8xEECk5BRGIXe2T4QvTInOiC7aV52Jq+gaF2G+N5qggRrCFbqZjVJ9ibMovfxmK/OCArEuK0FC0=]]></acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
       <description><![CDATA[<p>Mehr im Moment leben: Kannst du das gut? Wir sprechen in dieser Folge u.a. darüber, wie wichtig das <strong>JETZT</strong> glücklich sein ist und warum wir mehr im hier und jetzt leben sollten. Außerdem werfen wir einen Blick auf ein paar neue Herausforderungen in der Selbstständigkeit, erkennen mal wieder wie wichtig <em><u>Learning by doing</u></em> ist und sprechen über Isi's alte Gewohnheit, sich immer den absoluten Worst Case auszumalen.&nbsp;</p><br><p>Folgst du uns schon auf Instagram? 📱 <a href="https://instagram.com/waswennsklappt" rel="noopener noreferrer" target="_blank">https://instagram.com/waswennsklappt</a></p><p>Folgst du uns schon auf YouTube? 📺 <a href="https://youtube.com/@waswennsklappt" rel="noopener noreferrer" target="_blank">https://youtube.com/@waswennsklappt</a></p><p>Unsere Website: 🌐 <a href="https://waswennsklappt.de" rel="noopener noreferrer" target="_blank">https://waswennsklappt.de</a></p>]]></description>
@@ -362,12 +362,12 @@
       <itunes:duration>30:29</itunes:duration>
       <enclosure url="https://media.blubrry.com/2994638/chrt.fm/track/C481C3/https://sphinx.acast.com/p/open/s/6504228accb27600118a65b8/e/65042ce0e3147000102828c8/media.mp3" length="60072814" type="audio/mpeg"/>
       <guid isPermaLink="false">65042ce0e3147000102828c8</guid>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <link>https://www.instagram.com/waswennsklappt/</link>
       <acast:episodeId>65042ce0e3147000102828c8</acast:episodeId>
       <acast:showId>6504228accb27600118a65b8</acast:showId>
       <acast:episodeUrl>einfach-mal-positiver-denken</acast:episodeUrl>
-      <acast:settings><![CDATA[Mmi9XlfQiyuva10SqTHvHIUYNDO/KB6nkmZKMSEU6KK3jDhzRuOvH6hQddI5ArdP1sWQ/fRoiDIlIcrFvGe0bR9qdOvcIJThSTsxf+Fgdh5a5WC61WBqVvdVkz9POX9gzfX7FkM3gmKyXOF8vNGI18EcrNJgKERlsEEcZy2zBEU9ME5k7N4klmfSLMLvLik+FWXXB2VBEErbcw2DdsTYCgNrePxIkFH/A//9EWTjr5YBnQ8AuYRMNMmHIAPqLtB+lBbDpNFPN6uq2G0g9vQrVptfqxSIHc6PGqoEzMvFuPEIdzsSsPYXVjdx0P6i1/LZQICVP8JB6hNqY8hNY5JOwjpHpRohINZEKwvMHSVNk7uDPcpZjd8v1nKHBQFRuRIoaE5PzpCFL1MZ8FxMlLnl8VpyHkXPYXHa80lRQnsHIUwkdzMgHgTYcR+WL8vFbONPE2T+uJgAFh2+caxtBGYXp+efL9GvRVO2PlB/Il4qX9g0gbzhqLa84eiJUCkqA52eVHqDTuZgUBjqe97lDj97wcP1e69aWqo9Mwwk+xO/oJbsRmT4YgafX97S2m5C666buoinuM6T7MxaBOAtFKsOUqbQ08Srweuyl3Q8p5gq5Nf1fWWRFW9hDisZPlQxG2zQnSn/O52hoZCT0LhAgR5E8I1Zlm1DTwfZ5+1G+jaeR+Q59tr8YWmn1C0tQNdN4YwN/4+GlHQxhoeKveFbRVQvspTyKW5Gq1IdjIC2ngp30bPoC9EFHMIAz47BCdz4EZNDRhVebV+1pJob3mH2XdMEjABnQspU3ElfQ80h2xNi+DoLbQ6tz1RLqO02aTLu36UzwdXinZItBNotR4leaxDhRldQate/UGhLLXcQAkoccOI=]]></acast:settings>
+      <acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6Zs8z4+Wx95XDJvKs3vbmvv8L67MZL0XEyyiDjOilZlCMgv5MYgYF8Hgf3Ldo+iHi3aeo5IdII5+t0d//qKVZKDiiBiFirMJNehIldc6nHvSfntjzJ0olFJJIPCO2f/I/bl]]></acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://assets.pippa.io/shows/cover/1694769397505-200a70a4b22643e5b0d6127cc66d67dc.jpeg"/>
       <description><![CDATA[<p>In dieser Podcast Folge nehmen wir dich mit auf eine inspirierende Reise durch unsere persönlichen Erfahrungen. Wir erzählen, wie wir unsere Träume und Wünsche aktiv verfolgen, um ein erfülltes und abenteuerliches Leben zu führen. Dabei sprechen wir über die Bedeutung von positivem Denken, Selbstverwirklichung und der Offenheit für neue Möglichkeiten. Du erfährst von unseren Reiseerlebnissen und wie wir Hindernisse überwinden, um unsere Ziele zu erreichen. Diese Folge soll dich ermutigen, deine eigenen Träume anzugehen, negative Gedanken in positive umzuwandeln und den Mut zur Veränderung zu finden. Egal, ob du schon immer von einer Weltreise geträumt hast oder andere Ziele hast, unsere Geschichten sollen dir Inspiration bieten, um deine eigenen Träume zu verwirklichen.</p><br><p>Folgst du uns schon auf Instagram? ➡️ <a href="https://instagram.com/waswennsklappt" rel="noopener noreferrer" target="_blank">https://instagram.com/waswennsklappt</a></p><p>Schau auch gerne auf YouTube vorbei <a href="https://www.youtube.com/@Waswennsklappt" rel="noopener noreferrer" target="_blank">https://www.youtube.com/@Waswennsklappt</a></p><p>Unsere Website: 🌐 <a href="https://waswennsklappt.de/" rel="noopener noreferrer" target="_blank">https://waswennsklappt.de</a></p>]]></description>
