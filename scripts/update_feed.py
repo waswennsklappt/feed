@@ -44,7 +44,7 @@ def process_xml(feed_url):
         for enclosure_element in root.xpath(".//channel/item/enclosure"):
             url_attr = enclosure_element.get("url")
             if url_attr is not None:
-                enclosure_element.set("url", "https://media.blubrry.com/2994638/chrt.fm/track/C481C3/" + url_attr)
+                enclosure_element.set("url", "https://media.blubrry.com/2994638/" + url_attr)
 
         # Create and add the 'atom:link' element using the namespace
         pubsubhub_element = etree.Element('{%s}link' % namespaces["atom"], href="https://pubsubhubbub.appspot.com/",
